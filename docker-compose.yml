@@ -1,4 +1,5 @@
 version: "3.9"
+
 services:
   dev:
     image: "rust:1.69"

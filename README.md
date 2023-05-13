@@ -4,10 +4,9 @@
 
 Three person team consisting of:
 * Alex Holland
-* Bhavnir Rai
+* Bhavanvir Rai
 * Kevin George Mathew
 
 ## Development Stack
 
 Using Rust with Rocket Framework for API development
-
