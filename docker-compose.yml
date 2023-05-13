@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  dev:
+    image: "rust:1.69"
+    volumes:
+      - ./projects:/projects
+    environment:
+      - USER=algorithm2
