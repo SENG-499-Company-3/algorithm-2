@@ -1,0 +1,29 @@
+name: update-prod
+on:
+  # update the branch prod every 3 days
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout 🛎
+        # https://github.com/actions/checkout
+        uses: actions/checkout@v3
+        with:
+          # check out all branches
+          fetch-depth: 0
+          # use a personal access token to commit
+          # the merged code and trigger CI actions
+          token: ${{ secrets.GH_PAT }}
+      - name: Update Git branch prod
+        run: |
+          git config user.name "Update branch"
+          git config user.email github-actions@github.com
+          git checkout prod
+          git merge dev --no-edit -m "Merged dev branch on $(date +%F)"
+      - name: Push the updated branch prod
+        run: |
+          git push origin prod
