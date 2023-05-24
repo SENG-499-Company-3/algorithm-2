@@ -1,9 +1,10 @@
-version: "3.9"
-
 services:
-  dev:
-    image: "rust:1.69"
+  app:
+    build: .
+    container_name: python-server
+    command: uvicorn src.main:app --host 0.0.0.0 --port 8080 --reload
+    ports:
+      - 8080:8080
+      - 5678:5678
     volumes:
-      - ./projects:/projects
-    environment:
-      - USER=algorithm2
+      - .:/code
