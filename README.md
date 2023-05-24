@@ -9,4 +9,4 @@ Three person team consisting of:
 
 ## Development Stack
 
-Using Rust with Rocket Framework for API development
+Using Python with Fast API + Swagger UI
