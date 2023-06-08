@@ -1,538 +1,128 @@
-Term,CRN,Subj,Num,Section,Instructor,Camp,Bldg,Room,Begin,End,Days,Start Date,End Date,Cap,Enrolled,Dept Desc,Faculty,Status
-202205,30175,CSC,110,A01,"Berg, Celina",M,ECS,123,1000.0,1120.0,MR,04-May-22,29-Jul-22,8,11,Computer Science,EN,A
-202205,31846,CSC,110,C01,TBD,OFF,,,,,,04-May-22,17-Aug-22,5,2,Computer Science,EN,A
-202205,30176,CSC,110,A02,"Berg, Celina",M,ECS,123,1000.0,1120.0,MR,04-May-22,29-Jul-22,70,56,Computer Science,EN,A
-202205,30184,CSC,115,A02,"Berg, Celina",M,ECS,123,1300.0,1420.0,MR,04-May-22,29-Jul-22,70,81,Computer Science,EN,A
-202205,30183,CSC,115,A01,"Berg, Celina",M,ECS,123,1300.0,1420.0,MR,04-May-22,29-Jul-22,8,10,Computer Science,EN,A
-202205,31142,CSC,130,A01,"Coady, Yvonne",ONL,,,830.0,1120.0,T,04-May-22,29-Jul-22,48,36,Computer Science,EN,A
-202205,31564,CSC,130,A02,"Coady, Yvonne",ONL,,,830.0,1120.0,T,04-May-22,29-Jul-22,12,0,Computer Science,EN,A
-202205,30193,CSC,225,A01,"Jabbari, Hosna",M,HSD,A240,930.0,1020.0,TWF,04-May-22,29-Jul-22,55,46,Computer Science,EN,A
-202205,30194,CSC,225,A02,"Jabbari, Hosna",M,HSD,A240,930.0,1020.0,TWF,04-May-22,29-Jul-22,20,12,Computer Science,EN,A
-202205,30201,CSC,226,A02,"Yong, Quinton",M,ECS,125,1130.0,1220.0,TWF,04-May-22,29-Jul-22,30,27,Computer Science,EN,A
-202205,30200,CSC,226,A01,"Yong, Quinton",M,ECS,125,1130.0,1220.0,TWF,04-May-22,29-Jul-22,70,47,Computer Science,EN,A
-202205,30208,CSC,230,A02,"Zastre, Michael",M,ECS,116,1300.0,1420.0,MR,04-May-22,29-Jul-22,10,6,Computer Science,EN,A
-202205,30207,CSC,230,A01,"Zastre, Michael",M,ECS,116,1300.0,1420.0,MR,04-May-22,29-Jul-22,55,40,Computer Science,EN,A
-202205,30215,CSC,320,A01,"Stege, Ulrike",M,ECS,125,830.0,950.0,MR,04-May-22,29-Jul-22,115,95,Computer Science,EN,A
-202205,30216,CSC,320,A02,"Stege, Ulrike",M,ECS,125,830.0,950.0,MR,04-May-22,29-Jul-22,26,25,Computer Science,EN,A
-202205,30220,CSC,360,A01,"Zastre, Michael",M,ECS,116,930.0,1020.0,TWF,04-May-22,29-Jul-22,65,37,Computer Science,EN,A
-202205,30221,CSC,360,A02,"Zastre, Michael",M,ECS,116,930.0,1020.0,TWF,04-May-22,29-Jul-22,30,32,Computer Science,EN,A
-202205,30225,CSC,370,A01,"Chester, Sean",M,DSB,C103,1630.0,1750.0,MW,04-May-22,29-Jul-22,82,60,Computer Science,EN,A
-202205,30226,CSC,370,A02,"Chester, Sean",M,DSB,C103,1630.0,1750.0,MW,04-May-22,29-Jul-22,31,25,Computer Science,EN,A
-202205,30227,CSC,445,A01,"Bird, Bill",M,ECS,125,1630.0,1750.0,MW,04-May-22,29-Jul-22,95,76,Computer Science,EN,A
-202205,30228,CSC,445,A02,"Bird, Bill",M,ECS,125,1630.0,1750.0,MW,04-May-22,29-Jul-22,25,20,Computer Science,EN,A
-202205,30229,CSC,482A,A01,"Koroth, Sajin",M,ECS,104,1430.0,1520.0,MWR,04-May-22,29-Jul-22,44,31,Computer Science,EN,A
-202205,31589,CSC,482A,A02,"Koroth, Sajin",M,ECS,104,1430.0,1520.0,MWR,04-May-22,29-Jul-22,2,0,Computer Science,EN,A
-202205,30230,CSC,485C,A01,"Chester, Sean",M,ECS,116,1630.0,1750.0,TR,04-May-22,29-Jul-22,60,30,Computer Science,EN,A
-202205,30231,CSC,485C,A02,"Chester, Sean",M,ECS,116,1630.0,1750.0,TR,04-May-22,29-Jul-22,25,20,Computer Science,EN,A
-202205,31877,CSC,490,A01,"German, Daniel",ONL,,,,,,04-Jul-22,19-Aug-22,1,0,Computer Science,EN,A
-202205,31803,CSC,497,I01,"Tzanetakis, George",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31823,CSC,497,I02,"Fargey, Shannon",ONL,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31868,CSC,497,I03,"McNally, Kirk",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31871,CSC,497,I04,"Coady, Yvonne",ONL,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31879,CSC,499,I02,"Mehta, Nishant",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31883,CSC,499,I05,"Pan, Jianping",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31878,CSC,499,I01,"German, Daniel",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31881,CSC,499,I03,"Haworth, Brandon",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31882,CSC,499,I04,"Jabbari, Hosna",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,30232,CSC,503,A01,"German, Daniel",M,ECS,125,1300.0,1420.0,MR,04-May-22,29-Jul-22,16,3,Computer Science,EN,A
-202205,30233,CSC,503,A02,"German, Daniel",M,ECS,125,1300.0,1420.0,MR,04-May-22,29-Jul-22,16,10,Computer Science,EN,A
-202205,30238,CSC,545,A01,"Bird, Bill",M,ECS,125,1630.0,1750.0,MW,04-May-22,29-Jul-22,15,13,Computer Science,EN,A
-202205,31542,CSC,582A,A01,"Koroth, Sajin",M,ECS,104,1430.0,1520.0,MWR,04-May-22,29-Jul-22,15,9,Computer Science,EN,A
-202205,30239,CSC,586C,A01,"Chester, Sean",M,ECS,116,1630.0,1750.0,TR,04-May-22,29-Jul-22,20,11,Computer Science,EN,A
-202205,31720,CSC,591,A03,"Perin, Charles; Storey, Margaret-Anne",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31901,CSC,591,A08,"Tzanetakis, George",M,,,,,,04-May-22,17-Aug-22,1,1,Computer Science,EN,A
-202205,31889,CSC,591,A07,"Jabbari, Hosna",M,,,,,,04-May-22,17-Aug-22,1,1,Computer Science,EN,A
-202205,31778,CSC,591,A05,"Storey, Margaret-Anne",OFF,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31822,CSC,591,A06,"Muller, Hausi",OFF,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31681,CSC,591,A02,"Jabbari, Hosna",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31768,CSC,591,A04,"Wu, Kui",M,,,,,,04-May-22,29-Jul-22,1,1,Computer Science,EN,A
-202205,31633,CSC,591,A01,"Somanath, Sowmya",M,,,,,,01-Jun-22,29-Jul-22,4,4,Computer Science,EN,A
-202205,30242,CSC,597,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,100,0,Computer Science,EN,A
-202205,30241,CSC,597,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,2,Computer Science,EN,A
-202205,30243,CSC,598,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,8,Computer Science,EN,A
-202205,31662,CSC,598,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,100,3,Computer Science,EN,A
-202205,30244,CSC,599,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,54,Computer Science,EN,A
-202205,30245,CSC,599,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,100,8,Computer Science,EN,A
-202205,30246,CSC,693,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,20,Computer Science,EN,A
-202205,30247,CSC,693,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,100,1,Computer Science,EN,A
-202205,30248,CSC,699,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,13,Computer Science,EN,A
-202205,30249,CSC,699,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,100,4,Computer Science,EN,A
-202205,30286,ECE,216,A01,"Smith, Levi",M,ECS,123,1130.0,1250.0,MR,04-May-22,29-Jul-22,250,122,Electrical & Computer Engg,EN,A
-202205,30297,ECE,220,A01,"Shuja, Sana",M,CLE,A127,1130.0,1220.0,TWF,04-May-22,29-Jul-22,90,60,Electrical & Computer Engg,EN,A
-202205,30299,ECE,242,A01,"Popli, Navneet",M,COR,B145,930.0,1020.0,TWF,04-May-22,29-Jul-22,36,28,Electrical & Computer Engg,EN,A
-202205,30300,ECE,250,A01,"Shuja, Sana",M,CLE,A224,1230.0,1320.0,TWF,04-May-22,29-Jul-22,60,15,Electrical & Computer Engg,EN,A
-202205,30305,ECE,260,A01,"Adams, Michael",M,ECS,123,1030.0,1120.0,TWF,04-May-22,29-Jul-22,105,66,Electrical & Computer Engg,EN,A
-202205,30306,ECE,260,A02,"Adams, Michael",M,ECS,123,1030.0,1120.0,TWF,04-May-22,29-Jul-22,10,2,Electrical & Computer Engg,EN,A
-202205,30311,ECE,299,A01,"Thirumarai Chelvan, Ilamparithi",M,ECS,125,1530.0,1620.0,W,04-May-22,29-Jul-22,90,63,Electrical & Computer Engg,EN,A
-202205,30311,ECE,299,A01,"Thirumarai Chelvan, Ilamparithi",M,ECS,125,1330.0,1520.0,T,04-May-22,29-Jul-22,90,63,Electrical & Computer Engg,EN,A
-202205,30318,ECE,310,A02,"Riaz, Raja Ali",M,COR,B135,1000.0,1120.0,MR,04-May-22,29-Jul-22,10,1,Electrical & Computer Engg,EN,A
-202205,30317,ECE,310,A01,"Riaz, Raja Ali",M,COR,B135,1000.0,1120.0,MR,04-May-22,29-Jul-22,70,25,Electrical & Computer Engg,EN,A
-202205,31671,ECE,403,A01,"Zhao, Lei",M,ECS,108,830.0,920.0,TWF,04-May-22,29-Jul-22,60,13,Electrical & Computer Engg,EN,A
-202205,30319,ECE,410,A01,"Thirumarai Chelvan, Ilamparithi",M,COR,B143,1230.0,1320.0,TWF,04-May-22,29-Jul-22,70,33,Electrical & Computer Engg,EN,A
-202205,30325,ECE,441,A01,"Capson, David",M,ECS,116,1030.0,1120.0,TWF,04-May-22,29-Jul-22,58,49,Electrical & Computer Engg,EN,A
-202205,30329,ECE,450,A01,"Driessen, Peter",M,ECS,130,1630.0,1920.0,M,04-May-22,29-Jul-22,40,5,Electrical & Computer Engg,EN,A
-202205,30332,ECE,456,A01,"Yang, Hong-Chuan",M,DSB,C126,930.0,1020.0,TWF,04-May-22,29-Jul-22,30,17,Electrical & Computer Engg,EN,A
-202205,30333,ECE,470,A01,"Liu, Michael",M,DSB,C103,1430.0,1620.0,T,20-Jun-22,05-Aug-22,60,45,Electrical & Computer Engg,EN,A
-202205,30334,ECE,470,A02,"Liu, Michael",M,DSB,C103,1130.0,1250.0,MR,20-Jun-22,05-Aug-22,15,6,Electrical & Computer Engg,EN,A
-202205,30334,ECE,470,A02,"Liu, Michael",M,DSB,C103,1430.0,1620.0,T,20-Jun-22,05-Aug-22,15,6,Electrical & Computer Engg,EN,A
-202205,30333,ECE,470,A01,"Liu, Michael",M,DSB,C103,1130.0,1250.0,MR,20-Jun-22,05-Aug-22,60,45,Electrical & Computer Engg,EN,A
-202205,30335,ECE,481,A01,"Sima, Mihai",M,COR,A221,1000.0,1120.0,MR,04-May-22,29-Jul-22,50,15,Electrical & Computer Engg,EN,A
-202205,31794,ECE,490,A01,"Capson, David",M,,,,,,04-May-22,29-Jul-22,1,1,Electrical & Computer Engg,EN,A
-202205,31880,ECE,490,A03,"Lu, Tao",M,,,,,,04-May-22,29-Jul-22,1,1,Electrical & Computer Engg,EN,A
-202205,31866,ECE,490,A02,"Popli, Navneet",ONL,,,,,,04-May-22,29-Jul-22,1,1,Electrical & Computer Engg,EN,A
-202205,30336,ECE,496A,A01,"Altawy, Riham",ONL,,,1430.0,1720.0,R,04-May-22,29-Jul-22,60,53,Electrical & Computer Engg,EN,A
-202205,31688,ECE,498,I01,"Suleman, Afzal; Driessen, Peter",M,,,,,,04-May-22,29-Jul-22,1,1,Electrical & Computer Engg,EN,A
-202205,30337,ECE,499,A01,"Dong, Xiaodai",M,ECS,123,1630.0,1720.0,W,04-May-22,29-Jul-22,90,63,Electrical & Computer Engg,EN,A
-202205,30338,ECE,509,A01,TBD,M,,,,,,04-May-22,29-Jul-22,200,66,Electrical & Computer Engg,EN,A
-202205,30339,ECE,509,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,22,Electrical & Computer Engg,EN,A
-202205,30341,ECE,512,A02,"Driessen, Peter",M,ECS,130,1630.0,1920.0,M,04-May-22,29-Jul-22,25,0,Electrical & Computer Engg,EN,A
-202205,30340,ECE,512,A01,"Driessen, Peter",M,ECS,130,1630.0,1920.0,M,04-May-22,29-Jul-22,20,0,Electrical & Computer Engg,EN,A
-202205,30345,ECE,519C,A02,"Altawy, Riham",ONL,,,1430.0,1720.0,R,04-May-22,29-Jul-22,30,16,Electrical & Computer Engg,EN,A
-202205,30344,ECE,519C,A01,"Altawy, Riham",ONL,,,1430.0,1720.0,R,04-May-22,29-Jul-22,35,28,Electrical & Computer Engg,EN,A
-202205,30346,ECE,537,A01,"Neville, Stephen",M,ELW,B238,1130.0,1420.0,F,04-May-22,29-Jul-22,15,0,Electrical & Computer Engg,EN,A
-202205,30347,ECE,537,A02,"Neville, Stephen",M,ELW,B238,1130.0,1420.0,F,04-May-22,29-Jul-22,25,15,Electrical & Computer Engg,EN,A
-202205,30348,ECE,543,A01,"Capson, David",M,ECS,116,1030.0,1120.0,TWF,04-May-22,29-Jul-22,14,10,Electrical & Computer Engg,EN,A
-202205,30353,ECE,569A,A02,"Liu, Michael",M,DSB,C103,1130.0,1250.0,MR,20-Jun-22,05-Aug-22,35,15,Electrical & Computer Engg,EN,A
-202205,30353,ECE,569A,A02,"Liu, Michael",M,DSB,C103,1430.0,1620.0,T,20-Jun-22,05-Aug-22,35,15,Electrical & Computer Engg,EN,A
-202205,30352,ECE,569A,A01,"Liu, Michael",M,DSB,C103,1130.0,1250.0,MR,20-Jun-22,05-Aug-22,45,26,Electrical & Computer Engg,EN,A
-202205,30352,ECE,569A,A01,"Liu, Michael",M,DSB,C103,1430.0,1620.0,T,20-Jun-22,05-Aug-22,45,26,Electrical & Computer Engg,EN,A
-202205,30355,ECE,570,A02,"Traore, Issa",M,ECS,108,830.0,950.0,MR,04-May-22,29-Jul-22,30,19,Electrical & Computer Engg,EN,A
-202205,30354,ECE,570,A01,"Traore, Issa",M,ECS,108,830.0,950.0,MR,04-May-22,29-Jul-22,10,5,Electrical & Computer Engg,EN,A
-202205,30356,ECE,572,A01,"Bourguiba, Imen",ONL,,,1500.0,1750.0,TW,09-May-22,17-Jun-22,28,9,Electrical & Computer Engg,EN,A
-202205,30357,ECE,572,A02,"Bourguiba, Imen",ONL,,,1500.0,1750.0,TW,09-May-22,17-Jun-22,32,27,Electrical & Computer Engg,EN,A
-202205,31710,ECE,590,A03,"Popli, Navneet",OFF,,,,,,04-May-22,07-Aug-22,1,1,Electrical & Computer Engg,EN,A
-202205,31620,ECE,590,A01,"Saidaminov, Makhsud",M,,,,,,04-May-22,07-Aug-22,1,1,Electrical & Computer Engg,EN,A
-202205,31665,ECE,590,A02,"Gebali, Fayez",M,,,,,,04-May-22,07-Aug-22,1,1,Electrical & Computer Engg,EN,A
-202205,31782,ECE,590,A04,"Mazrooei, Majid",M,,,,,,04-May-22,07-Aug-22,1,1,Electrical & Computer Engg,EN,A
-202205,31814,ECE,590,A06,"Najjaran, Homayoun",M,,,,,,04-May-22,07-Aug-22,5,5,Electrical & Computer Engg,EN,A
-202205,31798,ECE,590,A05,"Dong, Xiaodai",M,,,,,,04-May-22,07-Aug-22,1,1,Electrical & Computer Engg,EN,A
-202205,30358,ECE,592B,A01,"Li, Kin Fun",M,ECS,104,1630.0,1730.0,F,04-May-22,29-Jul-22,50,33,Electrical & Computer Engg,EN,A
-202205,31673,ECE,596A,A02,"Branzan Albu, Alexandra; Zastre, Michael",M,CLE,A317,1130.0,1220.0,TWF,04-May-22,29-Jul-22,16,0,Electrical & Computer Engg,EN,A
-202205,30359,ECE,596A,A01,"Branzan Albu, Alexandra; Zastre, Michael",M,CLE,A317,1130.0,1220.0,TWF,04-May-22,29-Jul-22,18,7,Electrical & Computer Engg,EN,A
-202205,31588,ECE,596B,A01,"Baniasadi, Amirali",ONL,,,1000.0,1250.0,M,04-May-22,29-Jul-22,50,8,Electrical & Computer Engg,EN,A
-202205,30360,ECE,596C,A01,"Adams, Michael",M,ECS,104,1130.0,1220.0,TWF,04-May-22,29-Jul-22,5,2,Electrical & Computer Engg,EN,A
-202205,30362,ECE,597,A01,"Li, Kin Fun",M,,,,,,04-May-22,29-Jul-22,65,19,Electrical & Computer Engg,EN,A
-202205,30363,ECE,598,A01,TBD,M,,,,,,04-May-22,29-Jul-22,150,32,Electrical & Computer Engg,EN,A
-202205,30364,ECE,598,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,16,Electrical & Computer Engg,EN,A
-202205,30366,ECE,599,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,7,Electrical & Computer Engg,EN,A
-202205,30365,ECE,599,A01,TBD,M,,,,,,04-May-22,29-Jul-22,150,33,Electrical & Computer Engg,EN,A
-202205,30367,ECE,609,A01,TBD,M,,,,,,04-May-22,29-Jul-22,150,63,Electrical & Computer Engg,EN,A
-202205,30368,ECE,609,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,11,Electrical & Computer Engg,EN,A
-202205,30369,ECE,693,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,48,Electrical & Computer Engg,EN,A
-202205,30370,ECE,693,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,5,Electrical & Computer Engg,EN,A
-202205,30371,ECE,699,A01,TBD,M,,,,,,04-May-22,29-Jul-22,100,66,Electrical & Computer Engg,EN,A
-202205,30372,ECE,699,A02,TBD,OFF,,,,,,04-May-22,29-Jul-22,50,8,Electrical & Computer Engg,EN,A
-202205,31905,ENGR,2,C01,TBD,OFF,,,,,,04-May-22,17-Aug-22,20,0,Engineering & Computer Science,EN,A
-202205,30416,ENGR,141,A01,"Saghlatoun, Saeedeh",M,CLE,A224,1000.0,1120.0,MR,04-May-22,29-Jul-22,70,35,Mechanical Engineering,EN,A
-202205,30420,ENGR,446,A01,"Fiddler, Susan",M,,,,,,04-May-22,29-Jul-22,115,80,Engineering & Computer Science,EN,A
-202205,30758,SENG,265,A01,"Muller, Hausi",M,ECS,123,1230.0,1320.0,TWF,04-May-22,29-Jul-22,70,60,Computer Science,EN,A
-202205,30759,SENG,265,A02,"Muller, Hausi",M,ECS,123,1230.0,1320.0,TWF,04-May-22,29-Jul-22,12,7,Computer Science,EN,A
-202205,30764,SENG,275,A01,"Popli, Navneet",M,COR,B143,1030.0,1120.0,TWF,04-May-22,29-Jul-22,55,35,Computer Science,EN,A
-202205,30769,SENG,310,A01,"Somanath, Sowmya",M,ECS,125,1130.0,1250.0,MR,04-May-22,29-Jul-22,73,71,Computer Science,EN,A
-202205,30770,SENG,310,A02,"Somanath, Sowmya",M,ECS,125,1130.0,1250.0,MR,04-May-22,29-Jul-22,52,50,Computer Science,EN,A
-202205,30777,SENG,426,A02,"Traore, Issa",M,ECS,125,1000.0,1120.0,MR,04-May-22,29-Jul-22,15,8,Electrical & Computer Engg,EN,A
-202205,30776,SENG,426,A01,"Traore, Issa",M,ECS,125,1000.0,1120.0,MR,04-May-22,29-Jul-22,76,73,Electrical & Computer Engg,EN,A
-202205,30781,SENG,440,A02,"Sima, Mihai",M,DSB,C103,830.0,950.0,MR,04-May-22,29-Jul-22,20,8,Electrical & Computer Engg,EN,A
-202205,30780,SENG,440,A01,"Sima, Mihai",M,DSB,C103,830.0,950.0,MR,04-May-22,29-Jul-22,90,86,Electrical & Computer Engg,EN,A
-202205,30783,SENG,474,A02,"German, Daniel",M,ECS,125,1300.0,1420.0,MR,04-May-22,29-Jul-22,25,13,Computer Science,EN,A
-202205,30782,SENG,474,A01,"German, Daniel",M,ECS,125,1300.0,1420.0,MR,04-May-22,29-Jul-22,67,32,Computer Science,EN,A
-202205,30789,SENG,475,A01,"Adams, Michael",M,ECS,104,1130.0,1220.0,TWF,04-May-22,29-Jul-22,28,15,Electrical & Computer Engg,EN,A
-202205,30790,SENG,475,A02,"Adams, Michael",M,ECS,104,1130.0,1220.0,TWF,04-May-22,29-Jul-22,12,10,Electrical & Computer Engg,EN,A
-202205,30792,SENG,499,A01,"Damian, Daniela",M,CLE,A127,1500.0,1620.0,W,04-May-22,29-Jul-22,84,77,Electrical & Computer Engg,EN,A
-202205,31703,VIRS,302,A01,TBD,M,,,,,,04-May-22,17-Aug-22,50,27,Engineering & Computer Science,EN,A
-202209,14266,CSC,105,A02,"Baharloo, Amir",M,COR,A221,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,78,75,Computer Science,EN,A
-202209,10719,CSC,105,A01,"Baharloo, Amir",M,BWC,B150,830.0,920.0,TWF,07-Sep-22,06-Dec-22,260,229,Computer Science,EN,A
-202209,10728,CSC,106,A01,"Nacenta, Miguel",M,ECS,125,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,150,109,Computer Science,EN,A
-202209,10743,CSC,110,A05,"Berg, Celina",ONL,,,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,20,35,Computer Science,EN,A
-202209,10742,CSC,110,A04,"Berg, Celina",M,ECS,123,1430.0,1520.0,TWF,07-Sep-22,06-Dec-22,85,88,Computer Science,EN,A
-202209,10741,CSC,110,A03,"Berg, Celina",M,ECS,123,1430.0,1520.0,TWF,07-Sep-22,06-Dec-22,60,80,Computer Science,EN,A
-202209,10739,CSC,110,A01,"Berg, Celina",M,ECS,123,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,70,88,Computer Science,EN,A
-202209,10740,CSC,110,A02,"Berg, Celina",M,ECS,123,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,100,114,Computer Science,EN,A
-202209,10763,CSC,111,A03,"Bird, Bill",M,DTB,A120,1630.0,1750.0,MW,07-Sep-22,06-Dec-22,200,102,Computer Science,EN,A
-202209,10762,CSC,111,A02,"Bird, Bill",M,DTB,A120,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,25,19,Computer Science,EN,A
-202209,10761,CSC,111,A01,"Bird, Bill",M,DTB,A120,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,225,154,Computer Science,EN,A
-202209,10764,CSC,111,A04,"Bird, Bill",M,DTB,A120,1630.0,1750.0,MW,07-Sep-22,06-Dec-22,25,17,Computer Science,EN,A
-202209,10779,CSC,115,A01,"Estey, Anthony",M,MAC,A144,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,65,58,Computer Science,EN,A
-202209,10780,CSC,115,A02,"Estey, Anthony",M,MAC,A144,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,111,101,Computer Science,EN,A
-202209,10787,CSC,116,A01,"Bird, Bill",M,DSB,C103,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,175,138,Computer Science,EN,A
-202209,10788,CSC,116,A02,"Bird, Bill",M,DSB,C103,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,5,7,Computer Science,EN,A
-202209,10795,CSC,130,A01,"Estey, Anthony",M,DSB,C103,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,180,168,Computer Science,EN,A
-202209,10802,CSC,225,A01,"Little, Rich",M,ECS,123,830.0,950.0,MR,07-Sep-22,06-Dec-22,186,169,Computer Science,EN,A
-202209,10803,CSC,225,A02,"Little, Rich",M,ECS,123,830.0,950.0,MR,07-Sep-22,06-Dec-22,30,28,Computer Science,EN,A
-202209,10810,CSC,226,A01,"Mehta, Nishant",M,ECS,125,1630.0,1750.0,MW,07-Sep-22,06-Dec-22,123,82,Computer Science,EN,A
-202209,10811,CSC,226,A02,"Mehta, Nishant",M,ECS,125,1630.0,1750.0,MW,07-Sep-22,06-Dec-22,30,14,Computer Science,EN,A
-202209,10817,CSC,230,A01,"Zastre, Michael",M,MAC,A144,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,160,128,Computer Science,EN,A
-202209,14437,CSC,299,A02,"Estey, Anthony",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14392,CSC,299,A01,"Chester, Sean",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,10828,CSC,305,A01,"Haworth, Brandon",M,ELL,167,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,135,99,Computer Science,EN,A
-202209,10829,CSC,305,A02,"Haworth, Brandon",M,ELL,167,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,15,14,Computer Science,EN,A
-202209,10841,CSC,320,A02,"King, Valerie",M,HSD,A240,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,15,6,Computer Science,EN,A
-202209,10840,CSC,320,A01,"King, Valerie",M,HSD,A240,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,80,41,Computer Science,EN,A
-202209,10846,CSC,349A,A02,"Little, Rich",M,FRA,159,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,100,96,Computer Science,EN,A
-202209,10845,CSC,349A,A01,"Little, Rich",M,FRA,159,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,115,110,Computer Science,EN,A
-202209,13923,CSC,355,A02,"Jackson, LillAnne",M,ELL,167,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,13,13,Computer Science,EN,A
-202209,10847,CSC,355,A01,"Jackson, LillAnne",M,ELL,167,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,124,97,Computer Science,EN,A
-202209,10861,CSC,360,A02,"Wu, Kui",M,ELL,168,830.0,950.0,MR,07-Sep-22,06-Dec-22,30,24,Computer Science,EN,A
-202209,10860,CSC,360,A01,"Wu, Kui",M,ELL,168,830.0,950.0,MR,07-Sep-22,06-Dec-22,145,120,Computer Science,EN,A
-202209,10865,CSC,361,A01,"Pan, Jianping",M,ECS,116,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,95,56,Computer Science,EN,A
-202209,10866,CSC,361,A02,"Pan, Jianping",M,ECS,116,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,25,15,Computer Science,EN,A
-202209,14303,CSC,370,A03,"Chester, Sean; Zhao, Yichun",ONL,,,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,26,Computer Science,EN,A
-202209,10875,CSC,370,A02,"Chester, Sean; Zhao, Yichun",M,ECS,125,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,26,23,Computer Science,EN,A
-202209,10874,CSC,370,A01,"Chester, Sean; Zhao, Yichun",M,ECS,125,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,124,108,Computer Science,EN,A
-202209,10876,CSC,375,A01,"Larios Vargas, Enrique",M,BWC,A104,830.0,920.0,TWF,07-Sep-22,06-Dec-22,100,79,Computer Science,EN,A
-202209,10877,CSC,375,A02,"Larios Vargas, Enrique",M,BWC,A104,830.0,920.0,TWF,07-Sep-22,06-Dec-22,35,35,Computer Science,EN,A
-202209,10878,CSC,411,A01,"Perin, Charles",M,MAC,D207,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,32,34,Computer Science,EN,A
-202209,10879,CSC,411,A02,"Perin, Charles",M,MAC,D207,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,13,13,Computer Science,EN,A
-202209,10880,CSC,421,A01,"Thomo, Alex",M,MAC,A144,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,142,130,Computer Science,EN,A
-202209,10881,CSC,421,A02,"Thomo, Alex",M,MAC,A144,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,24,22,Computer Science,EN,A
-202209,10883,CSC,425,A02,"King, Valerie",M,MAC,D114,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,10,3,Computer Science,EN,A
-202209,10882,CSC,425,A01,"King, Valerie",M,MAC,D114,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,20,12,Computer Science,EN,A
-202209,10884,CSC,466,A01,"Pan, Jianping",M,COR,A225,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,35,24,Computer Science,EN,A
-202209,10885,CSC,466,A02,"Pan, Jianping",M,COR,A225,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,15,12,Computer Science,EN,A
-202209,10886,CSC,482A,A01,"Kapron, Bruce",M,MAC,D116,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,32,9,Computer Science,EN,A
-202209,14068,CSC,482A,A02,"Kapron, Bruce",M,MAC,D116,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,13,2,Computer Science,EN,A
-202209,14283,CSC,482B,A01,"Chester, Sean",M,MAC,D283,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,8,7,Computer Science,EN,A
-202209,10889,CSC,485C,A02,"Nacenta, Miguel",M,MAC,D288,1430.0,1550.0,TF,07-Sep-22,06-Dec-22,7,3,Computer Science,EN,A
-202209,10888,CSC,485C,A01,"Nacenta, Miguel",M,MAC,D288,1430.0,1550.0,TF,07-Sep-22,06-Dec-22,40,33,Computer Science,EN,A
-202209,13911,CSC,486B,A02,"Schneider, Teseo",M,ECS,108,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,13,0,Computer Science,EN,A
-202209,10890,CSC,486B,A01,"Schneider, Teseo",M,ECS,108,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,32,10,Computer Science,EN,A
-202209,14478,CSC,490,A01,"Storey, Margaret-Anne",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14402,CSC,497,I03,"Bird, Bill",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14498,CSC,497,I05,"Thomo, Alex; Krawitz, Adam",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14516,CSC,497,I07,"Tzanetakis, George",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14520,CSC,497,I08,"Ernst, Neil",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14358,CSC,497,I01,"Haworth, Brandon",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14502,CSC,497,I06,"Nacenta, Miguel",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14391,CSC,497,I02,"Haworth, Brandon",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14468,CSC,497,I04,"Chrimes, Dillon",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14523,CSC,499,I02,"Schneider, Teseo",OFF,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14522,CSC,499,I01,"Chester, Sean",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,10891,CSC,501,A01,"Chester, Sean",M,MAC,D283,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,23,14,Computer Science,EN,A
-202209,10892,CSC,501,A02,"Chester, Sean",M,MAC,D283,1630.0,1750.0,TR,07-Sep-22,06-Dec-22,23,17,Computer Science,EN,A
-202209,14077,CSC,503,A01,"Numanagic, Ibrahim",M,CLE,A224,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,8,5,Computer Science,EN,A
-202209,10893,CSC,511,A01,"Perin, Charles",M,MAC,D207,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,15,8,Computer Science,EN,A
-202209,10894,CSC,520,A01,"King, Valerie",M,MAC,D114,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,10,2,Computer Science,EN,A
-202209,10895,CSC,524,A01,"Kapron, Bruce",M,MAC,D116,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,15,3,Computer Science,EN,A
-202209,10896,CSC,578A,A01,"Haworth, Brandon",M,CLE,C110,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,40,5,Computer Science,EN,A
-202209,10897,CSC,578B,A01,"Ernst, Neil",M,MAC,D116,1030.0,1120.0,TWF,07-Sep-22,06-Dec-22,15,8,Computer Science,EN,A
-202209,10898,CSC,578C,A01,"Nacenta, Miguel",M,MAC,D288,1430.0,1550.0,TF,07-Sep-22,06-Dec-22,30,23,Computer Science,EN,A
-202209,10899,CSC,579,A01,"Pan, Jianping",M,COR,A225,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,15,6,Computer Science,EN,A
-202209,10900,CSC,586B,A01,"Schneider, Teseo",M,ECS,108,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,15,4,Computer Science,EN,A
-202209,10901,CSC,588A,A01,"Lu, Yun",M,CLE,A216,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,10,6,Computer Science,EN,A
-202209,14138,CSC,588A,A02,"Lu, Yun",M,CLE,A216,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,10,0,Computer Science,EN,A
-202209,14240,CSC,591,A01,"Damian, Daniela",OFF,,,,,,07-Sep-22,07-Dec-22,1,1,Computer Science,EN,A
-202209,14526,CSC,591,A03,"Koroth, Sajin",M,,,,,,07-Sep-22,05-Dec-22,1,1,Computer Science,EN,A
-202209,14424,CSC,591,A02,"Stege, Ulrike",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,10902,CSC,595,A01,"Ernst, Neil",M,COR,B107,1230.0,1320.0,TWF,07-Sep-22,06-Dec-22,50,22,Computer Science,EN,A
-202209,10903,CSC,597,A01,TBD,M,,,,,,07-Sep-22,06-Dec-22,100,3,Computer Science,EN,A
-202209,10904,CSC,597,A02,TBD,OFF,,,,,,07-Sep-22,06-Dec-22,100,0,Computer Science,EN,A
-202209,10905,CSC,598,A01,TBD,M,,,,,,07-Sep-22,06-Dec-22,100,8,Computer Science,EN,A
-202209,10906,CSC,598,A02,TBD,OFF,,,,,,07-Sep-22,06-Dec-22,100,4,Computer Science,EN,A
-202209,10907,CSC,599,A01,TBD,M,,,,,,07-Sep-22,06-Dec-22,100,49,Computer Science,EN,A
-202209,10908,CSC,599,A02,TBD,OFF,,,,,,07-Sep-22,06-Dec-22,100,8,Computer Science,EN,A
-202209,10909,CSC,693,A01,TBD,M,,,,,,07-Sep-22,06-Dec-22,100,30,Computer Science,EN,A
-202209,10910,CSC,693,A02,TBD,OFF,,,,,,07-Sep-22,06-Dec-22,100,1,Computer Science,EN,A
-202209,10911,CSC,699,A01,TBD,M,,,,,,07-Sep-22,06-Dec-22,100,12,Computer Science,EN,A
-202209,10912,CSC,699,A02,TBD,OFF,,,,,,07-Sep-22,06-Dec-22,100,3,Computer Science,EN,A
-202209,10975,ECE,216,A01,"So, Poman",M,ELL,61,830.0,950.0,MR,07-Sep-22,06-Dec-22,60,30,Electrical & Computer Engg,EN,A
-202209,10980,ECE,241,A01,"Capson, David",M,ECS,124,1630.0,1820.0,W,07-Sep-22,06-Dec-22,60,60,Electrical & Computer Engg,EN,A
-202209,10980,ECE,241,A01,"Capson, David",M,ECS,108,1230.0,1320.0,F,07-Sep-22,06-Dec-22,60,60,Electrical & Computer Engg,EN,A
-202209,10986,ECE,250,A01,"Dimopoulos, Nikitas",M,ECS,123,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,250,150,Electrical & Computer Engg,EN,A
-202209,10996,ECE,255,A01,"Li, Kin Fun",M,ECS,125,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,145,127,Electrical & Computer Engg,EN,A
-202209,11003,ECE,260,A02,"Adams, Michael",M,ECS,125,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,12,5,Electrical & Computer Engg,EN,A
-202209,11002,ECE,260,A01,"Adams, Michael",M,ECS,125,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,136,112,Electrical & Computer Engg,EN,A
-202209,11007,ECE,335,A01,"So, Poman",M,MAC,D283,830.0,920.0,TWF,07-Sep-22,06-Dec-22,4,0,Electrical & Computer Engg,EN,A
-202209,11012,ECE,350,A01,"Driessen, Peter",M,ECS,116,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,100,77,Electrical & Computer Engg,EN,A
-202209,11016,ECE,355,A01,"Capson, David; Shuja, Sana",M,DSB,C103,1030.0,1120.0,TWF,07-Sep-22,06-Dec-22,180,145,Electrical & Computer Engg,EN,A
-202209,11023,ECE,356,A01,"Popli, Navneet",M,MAC,D101,1230.0,1320.0,W,07-Sep-22,06-Dec-22,30,20,Electrical & Computer Engg,EN,A
-202209,11023,ECE,356,A01,"Popli, Navneet",M,MAC,D103,1130.0,1220.0,MR,07-Sep-22,06-Dec-22,30,20,Electrical & Computer Engg,EN,A
-202209,11024,ECE,360,A01,"Shuja, Sana",M,ELL,168,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,140,78,Electrical & Computer Engg,EN,A
-202209,11033,ECE,365,A01,"Formiga Mamedes, Deisy",M,ELL,168,1530.0,1620.0,TWF,07-Sep-22,06-Dec-22,160,127,Electrical & Computer Engg,EN,A
-202209,11048,ECE,370,A01,"Yusuf, Latifa",M,BWC,A104,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,115,72,Electrical & Computer Engg,EN,A
-202209,11059,ECE,380,A01,"Sima, Mihai",M,ECS,116,830.0,950.0,MR,07-Sep-22,06-Dec-22,115,64,Electrical & Computer Engg,EN,A
-202209,11064,ECE,399,A01,"Yang, Hong-Chuan",M,DTB,A102,1600.0,1650.0,T,07-Sep-22,06-Dec-22,110,84,Electrical & Computer Engg,EN,A
-202209,11069,ECE,403,A01,"Zhao, Lei",M,DSB,C103,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,20,15,Electrical & Computer Engg,EN,A
-202209,11072,ECE,412,A01,"Saidaminov, Makhsud",M,MAC,D114,1430.0,1550.0,TW,07-Sep-22,06-Dec-22,17,12,Electrical & Computer Engg,EN,A
-202209,11073,ECE,463,A01,"Cai, Lin",M,DTB,A104,1430.0,1550.0,MR,07-Sep-22,06-Dec-22,55,24,Electrical & Computer Engg,EN,A
-202209,11074,ECE,484,A01,"Driessen, Peter",M,ECS,130,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,28,12,Electrical & Computer Engg,EN,A
-202209,11075,ECE,484,A02,"Driessen, Peter",M,ECS,130,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,7,4,Electrical & Computer Engg,EN,A
-202209,14477,ECE,490,A02,"Tzanetakis, George",M,,,,,,07-Sep-22,06-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,14339,ECE,490,A01,"Gebali, Fayez; El Miligi, Haytham",M,,,,,,07-Sep-22,06-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,11077,ECE,503,A02,"Dong, Xiaodai",M,DSB,C103,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,30,18,Electrical & Computer Engg,EN,A
-202209,11076,ECE,503,A01,"Dong, Xiaodai",M,DSB,C103,1330.0,1420.0,TWF,07-Sep-22,06-Dec-22,30,16,Electrical & Computer Engg,EN,A
-202209,11081,ECE,509,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,30,10,Electrical & Computer Engg,EN,A
-202209,11080,ECE,509,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,200,76,Electrical & Computer Engg,EN,A
-202209,11083,ECE,514,A02,"Cai, Lin",M,DTB,A104,1430.0,1550.0,MR,07-Sep-22,06-Dec-22,24,12,Electrical & Computer Engg,EN,A
-202209,11082,ECE,514,A01,"Cai, Lin",M,DTB,A104,1430.0,1550.0,MR,07-Sep-22,06-Dec-22,34,17,Electrical & Computer Engg,EN,A
-202209,11084,ECE,515,A01,"Gulliver, Aaron",M,ECS,108,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,25,14,Electrical & Computer Engg,EN,A
-202209,11085,ECE,515,A02,"Gulliver, Aaron",M,ECS,108,1130.0,1220.0,TWF,07-Sep-22,06-Dec-22,35,12,Electrical & Computer Engg,EN,A
-202209,11086,ECE,525,A01,"Gordon, Reuven",M,ECS,128,1300.0,1550.0,R,07-Sep-22,06-Dec-22,18,4,Electrical & Computer Engg,EN,A
-202209,11087,ECE,547,A01,"Saidaminov, Makhsud",M,MAC,D114,1430.0,1550.0,TW,07-Sep-22,06-Dec-22,18,5,Electrical & Computer Engg,EN,A
-202209,11088,ECE,559B,A01,"Yang, Hong-Chuan",M,COR,A229,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,40,19,Electrical & Computer Engg,EN,A
-202209,11089,ECE,559B,A02,"Yang, Hong-Chuan",M,COR,A229,930.0,1020.0,TWF,07-Sep-22,06-Dec-22,20,2,Electrical & Computer Engg,EN,A
-202209,14294,ECE,569A,A02,"Li, Wei",ONL,,,1830.0,2120.0,R,07-Sep-22,06-Dec-22,35,20,Electrical & Computer Engg,EN,A
-202209,14293,ECE,569A,A01,"Li, Wei",ONL,,,1830.0,2120.0,R,07-Sep-22,06-Dec-22,35,32,Electrical & Computer Engg,EN,A
-202209,14386,ECE,590,A02,"Adams, Michael",M,,,,,,07-Sep-22,07-Dec-22,2,2,Electrical & Computer Engg,EN,A
-202209,14396,ECE,590,A03,"Shuja, Sana",OFF,,,,,,07-Sep-22,07-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,14419,ECE,590,A04,"Altawy, Riham",OFF,,,,,,07-Sep-22,07-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,14432,ECE,590,A05,"Gebali, Fayez",M,,,,,,07-Sep-22,07-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,14301,ECE,590,A01,"Traore, Issa; Yousef, Waleed",OFF,,,,,,07-Sep-22,07-Dec-22,1,1,Electrical & Computer Engg,EN,A
-202209,11090,ECE,592A,A01,"Li, Kin Fun",M,ECS,104,1430.0,1520.0,W,07-Sep-22,06-Dec-22,60,16,Electrical & Computer Engg,EN,A
-202209,11092,ECE,598,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,50,5,Electrical & Computer Engg,EN,A
-202209,11091,ECE,598,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,100,29,Electrical & Computer Engg,EN,A
-202209,11093,ECE,599,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,100,43,Electrical & Computer Engg,EN,A
-202209,11094,ECE,599,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,50,8,Electrical & Computer Engg,EN,A
-202209,11095,ECE,609,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,100,67,Electrical & Computer Engg,EN,A
-202209,11096,ECE,609,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,50,8,Electrical & Computer Engg,EN,A
-202209,11099,ECE,693,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,50,6,Electrical & Computer Engg,EN,A
-202209,11098,ECE,693,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,100,48,Electrical & Computer Engg,EN,A
-202209,11101,ECE,699,A02,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,50,5,Electrical & Computer Engg,EN,A
-202209,11100,ECE,699,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,100,70,Electrical & Computer Engg,EN,A
-202209,14561,ENGR,1,C01,TBD,OFF,,,,,,07-Sep-22,21-Dec-22,20,10,Engineering & Computer Science,EN,A
-202209,11413,ENGR,110,A01,"Firmani, Flavio; Ghanbari, Hossein",M,CLE,A108,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11413,ENGR,110,A01,"Firmani, Flavio; Ghanbari, Hossein",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11414,ENGR,110,A02,"Firmani, Flavio; Skipsey, Kate",M,BEC,180,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,28,Mechanical Engineering,EN,A
-202209,11414,ENGR,110,A02,"Firmani, Flavio; Skipsey, Kate",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,28,Mechanical Engineering,EN,A
-202209,11415,ENGR,110,A03,"Firmani, Flavio; MacLeod, Brock",M,CLE,A031,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,28,Mechanical Engineering,EN,A
-202209,11415,ENGR,110,A03,"Firmani, Flavio; MacLeod, Brock",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,28,Mechanical Engineering,EN,A
-202209,11416,ENGR,110,A04,"Firmani, Flavio; Last, Suzan",M,CLE,A035,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,27,Mechanical Engineering,EN,A
-202209,11416,ENGR,110,A04,"Firmani, Flavio; Last, Suzan",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,27,Mechanical Engineering,EN,A
-202209,11417,ENGR,110,A05,"Firmani, Flavio; Ghanbari, Hossein",M,CLE,A035,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11417,ENGR,110,A05,"Firmani, Flavio; Ghanbari, Hossein",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11418,ENGR,110,A06,"Firmani, Flavio; Skipsey, Kate",M,CLE,A108,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11418,ENGR,110,A06,"Firmani, Flavio; Skipsey, Kate",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11419,ENGR,110,A07,"Firmani, Flavio; MacLeod, Brock",M,CLE,A031,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11419,ENGR,110,A07,"Firmani, Flavio; MacLeod, Brock",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11420,ENGR,110,A08,"Firmani, Flavio; Collins, Jason",M,BEC,180,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11420,ENGR,110,A08,"Firmani, Flavio; Collins, Jason",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,30,Mechanical Engineering,EN,A
-202209,11421,ENGR,110,A09,"Firmani, Flavio; Tagharobi, Kaveh",M,BEC,170,1300.0,1420.0,MR,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11421,ENGR,110,A09,"Firmani, Flavio; Tagharobi, Kaveh",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11422,ENGR,110,A10,"Firmani, Flavio; Cwiartka, Monika",M,CLE,A102,1900.0,2020.0,MW,07-Sep-22,06-Dec-22,30,27,Mechanical Engineering,EN,A
-202209,11422,ENGR,110,A10,"Firmani, Flavio; Cwiartka, Monika",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,27,Mechanical Engineering,EN,A
-202209,11423,ENGR,110,A11,"Firmani, Flavio; Lawrence, Randy",M,CLE,A102,1730.0,1850.0,MW,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11423,ENGR,110,A11,"Firmani, Flavio; Lawrence, Randy",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,30,29,Mechanical Engineering,EN,A
-202209,11424,ENGR,110,A12,"Firmani, Flavio; Last, Suzan",M,CLE,A035,1900.0,2020.0,MW,07-Sep-22,06-Dec-22,30,19,Mechanical Engineering,EN,A
-202209,11424,ENGR,110,A12,"Firmani, Flavio; Last, Suzan",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,30,19,Mechanical Engineering,EN,A
-202209,11445,ENGR,112,A01,"Firmani, Flavio",M,FRA,159,1430.0,1520.0,T,07-Sep-22,06-Dec-22,35,30,Mechanical Engineering,EN,A
-202209,11446,ENGR,112,A02,"Firmani, Flavio",M,FRA,159,1530.0,1620.0,T,07-Sep-22,06-Dec-22,27,24,Mechanical Engineering,EN,A
-202209,13828,ENGR,130,A02,"Senini, Ash",M,FRA,159,1430.0,1520.0,WF,07-Sep-22,28-Oct-22,90,63,Engineering & Computer Science,EN,A
-202209,13827,ENGR,130,A01,"Spalteholz, Leo",M,MAC,A144,900.0,950.0,MR,07-Sep-22,28-Oct-22,280,239,Engineering & Computer Science,EN,A
-202209,13829,ENGR,130,A03,"Senini, Ash",M,FRA,159,1430.0,1520.0,WF,07-Sep-22,28-Oct-22,190,140,Engineering & Computer Science,EN,A
-202209,11469,ENGR,446,A02,"Raisinghani, Monty",OFF,,,,,,07-Sep-22,06-Dec-22,60,30,Engineering & Computer Science,EN,A
-202209,11468,ENGR,446,A01,"Raisinghani, Monty",OFF,,,,,,07-Sep-22,06-Dec-22,60,56,Engineering & Computer Science,EN,A
-202209,11470,ENGR,498,A01,"Sharma, Panch Rishi",M,ELL,167,1630.0,1920.0,W,07-Sep-22,06-Dec-22,110,91,Engineering & Computer Science,EN,A
-202209,13113,SENG,265,A01,"Zastre, Michael",M,ECS,123,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,150,135,Computer Science,EN,A
-202209,13114,SENG,265,A02,"Zastre, Michael",M,ECS,123,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,65,63,Computer Science,EN,A
-202209,13123,SENG,310,A01,"Perin, Charles",M,MAC,D207,1530.0,1650.0,MR,07-Sep-22,06-Dec-22,58,56,Computer Science,EN,A
-202209,13124,SENG,310,A02,"Perin, Charles",M,MAC,D207,1530.0,1650.0,MR,07-Sep-22,06-Dec-22,20,20,Computer Science,EN,A
-202209,13131,SENG,321,A02,"Popli, Navneet",M,COR,B112,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,22,22,Computer Science,EN,A
-202209,13130,SENG,321,A01,"Popli, Navneet",M,COR,B112,1430.0,1520.0,MWR,07-Sep-22,06-Dec-22,50,45,Computer Science,EN,A
-202209,13135,SENG,350,A01,"Weber, Jens",M,BWC,A104,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,15,12,Computer Science,EN,A
-202209,13136,SENG,350,A02,"Weber, Jens",M,BWC,A104,1130.0,1250.0,MR,07-Sep-22,06-Dec-22,70,59,Computer Science,EN,A
-202209,13140,SENG,360,A01,"Weber, Jens",M,BWC,A104,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,53,37,Computer Science,EN,A
-202209,13141,SENG,360,A02,"Weber, Jens",M,BWC,A104,1530.0,1620.0,MWR,07-Sep-22,06-Dec-22,47,44,Computer Science,EN,A
-202209,14051,SENG,474,A02,"Numanagic, Ibrahim",M,CLE,A224,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,23,15,Computer Science,EN,A
-202209,14050,SENG,474,A01,"Numanagic, Ibrahim",M,CLE,A224,1000.0,1120.0,MR,07-Sep-22,06-Dec-22,55,35,Computer Science,EN,A
-202209,13149,SENG,480B,A02,"Ernst, Neil",M,MAC,D116,1030.0,1120.0,TWF,07-Sep-22,06-Dec-22,13,8,Computer Science,EN,A
-202209,13148,SENG,480B,A01,"Ernst, Neil",M,MAC,D116,1030.0,1120.0,TWF,07-Sep-22,06-Dec-22,32,23,Computer Science,EN,A
-202209,14390,SENG,490,A01,"Chester, Sean",M,,,,,,07-Sep-22,06-Dec-22,1,1,Computer Science,EN,A
-202209,14196,VIRS,302,A01,TBD,M,,,,,,07-Sep-22,21-Dec-22,50,11,Engineering & Computer Science,EN,A
-202301,20685,CSC,105,A01,"Lengwe, Maybins",M,MAC,A144,830.0,950.0,MR,09-Jan-23,06-Apr-23,316,284,Computer Science,EN,A
-202301,20695,CSC,106,A01,"Nacenta, Miguel",M,ECS,125,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,125,100,Computer Science,EN,A
-202301,24387,CSC,110,C01,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,10,6,Computer Science,EN,A
-202301,20703,CSC,110,A01,"Lu, Yun",M,DSB,C103,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,30,29,Computer Science,EN,A
-202301,20704,CSC,110,A02,"Lu, Yun",M,DSB,C103,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,150,142,Computer Science,EN,A
-202301,20711,CSC,111,A01,"Corless, Jason",M,ELL,167,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,138,134,Computer Science,EN,A
-202301,20723,CSC,115,A07,"Estey, Anthony",ONL,,,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,40,35,Computer Science,EN,A
-202301,20722,CSC,115,A06,"Estey, Anthony",M,BWC,B150,1430.0,1520.0,TWF,09-Jan-23,06-Apr-23,68,68,Computer Science,EN,A
-202301,20721,CSC,115,A05,"Estey, Anthony",M,BWC,B150,1430.0,1520.0,TWF,09-Jan-23,06-Apr-23,25,25,Computer Science,EN,A
-202301,20720,CSC,115,A04,"Estey, Anthony",M,BWC,B150,1430.0,1520.0,TWF,09-Jan-23,06-Apr-23,34,33,Computer Science,EN,A
-202301,20719,CSC,115,A03,"Estey, Anthony",M,HHB,105,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,33,35,Computer Science,EN,A
-202301,20718,CSC,115,A02,"Estey, Anthony",M,HHB,105,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,42,39,Computer Science,EN,A
-202301,20717,CSC,115,A01,"Estey, Anthony",M,HHB,105,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,122,120,Computer Science,EN,A
-202301,20741,CSC,130,A01,"Mansoor, Hamid",M,BWC,A104,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,125,118,Computer Science,EN,A
-202301,20748,CSC,225,A02,"Little, Rich",M,MAC,A144,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,47,45,Computer Science,EN,A
-202301,20747,CSC,225,A01,"Little, Rich",M,MAC,A144,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,113,102,Computer Science,EN,A
-202301,20755,CSC,226,A02,"Koroth, Sajin",M,ELL,168,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,25,23,Computer Science,EN,A
-202301,20754,CSC,226,A01,"Koroth, Sajin",M,ELL,168,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,155,143,Computer Science,EN,A
-202301,20763,CSC,230,A01,"Abdullah, Ahmad",M,ECS,125,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,132,121,Computer Science,EN,A
-202301,20764,CSC,230,A02,"Abdullah, Ahmad",M,ECS,125,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,13,12,Computer Science,EN,A
-202301,20775,CSC,305,A02,"Schneider, Teseo",M,HHB,105,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,22,21,Computer Science,EN,A
-202301,20774,CSC,305,A01,"Schneider, Teseo",M,HHB,105,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,103,83,Computer Science,EN,A
-202301,20785,CSC,320,A01,"Stege, Ulrike",M,ECS,125,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,115,111,Computer Science,EN,A
-202301,20786,CSC,320,A02,"Stege, Ulrike",M,ECS,125,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,30,30,Computer Science,EN,A
-202301,24240,CSC,320,A03,"Stege, Ulrike",ONL,,,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,65,46,Computer Science,EN,A
-202301,20791,CSC,322,A02,"Kapron, Bruce",M,ECS,116,1630.0,1750.0,TR,09-Jan-23,06-Apr-23,10,8,Computer Science,EN,A
-202301,20790,CSC,322,A01,"Kapron, Bruce",M,ECS,116,1630.0,1750.0,TR,09-Jan-23,06-Apr-23,80,65,Computer Science,EN,A
-202301,20792,CSC,330,A01,"Numanagic, Ibrahim",M,CLE,A224,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,73,58,Computer Science,EN,A
-202301,20793,CSC,330,A02,"Numanagic, Ibrahim",M,CLE,A224,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,13,8,Computer Science,EN,A
-202301,20795,CSC,349A,A02,"Little, Rich",M,BWC,B150,830.0,950.0,MR,09-Jan-23,06-Apr-23,232,208,Computer Science,EN,A
-202301,20794,CSC,349A,A01,"Little, Rich",M,BWC,B150,830.0,950.0,MR,09-Jan-23,06-Apr-23,105,94,Computer Science,EN,A
-202301,20796,CSC,350,A01,"Baharloo, Amir",M,ELL,62,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,75,65,Computer Science,EN,A
-202301,20798,CSC,360,A02,"Abdullah, Ahmad",M,ECS,123,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,25,19,Computer Science,EN,A
-202301,20797,CSC,360,A01,"Abdullah, Ahmad",M,ECS,123,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,125,76,Computer Science,EN,A
-202301,20802,CSC,361,A01,"Pan, Jianping",M,ELL,167,830.0,920.0,TWF,09-Jan-23,06-Apr-23,150,52,Computer Science,EN,A
-202301,20812,CSC,370,A02,"Thomo, Alex",M,ECS,125,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,23,21,Computer Science,EN,A
-202301,20811,CSC,370,A01,"Thomo, Alex",M,ECS,125,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,127,95,Computer Science,EN,A
-202301,24084,CSC,411,A01,"Perin, Charles",M,MAC,D207,1430.0,1550.0,TW,09-Jan-23,06-Apr-23,35,33,Computer Science,EN,A
-202301,24085,CSC,411,A02,"Perin, Charles",M,MAC,D207,1430.0,1550.0,TW,09-Jan-23,06-Apr-23,3,3,Computer Science,EN,A
-202301,20816,CSC,429,A02,"Kapron, Bruce",M,COR,A221,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,12,5,Computer Science,EN,A
-202301,20815,CSC,429,A01,"Kapron, Bruce",M,COR,A221,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,60,22,Computer Science,EN,A
-202301,23996,CSC,446,A01,"Wu, Kui",M,CLE,A127,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,91,89,Computer Science,EN,A
-202301,23997,CSC,446,A02,"Wu, Kui",M,CLE,A127,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,7,7,Computer Science,EN,A
-202301,20819,CSC,473,A01,"Haworth, Brandon",M,COR,B143,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,66,36,Computer Science,EN,A
-202301,20820,CSC,473,A02,"Haworth, Brandon",M,COR,B143,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,10,6,Computer Science,EN,A
-202301,20825,CSC,482A,A01,"Mehta, Nishant",M,CLE,B415,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,5,1,Computer Science,EN,A
-202301,23902,CSC,482A,A02,"Mehta, Nishant",M,CLE,B415,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,10,0,Computer Science,EN,A
-202301,20826,CSC,484D,A01,"Tzanetakis, George",M,MAC,D116,1630.0,1750.0,TR,09-Jan-23,06-Apr-23,25,17,Computer Science,EN,A
-202301,20828,CSC,485B,A02,"Thomo, Alex",M,DTB,A104,1630.0,1750.0,MR,09-Jan-23,06-Apr-23,3,2,Computer Science,EN,A
-202301,20827,CSC,485B,A01,"Thomo, Alex",M,DTB,A104,1630.0,1750.0,MR,09-Jan-23,06-Apr-23,60,47,Computer Science,EN,A
-202301,20829,CSC,485E,A01,"Somanath, Sowmya",M,COR,A120,830.0,950.0,MR,09-Jan-23,06-Apr-23,45,25,Computer Science,EN,A
-202301,20830,CSC,485E,A02,"Somanath, Sowmya",M,COR,A120,830.0,950.0,MR,09-Jan-23,06-Apr-23,2,1,Computer Science,EN,A
-202301,24503,CSC,490,A01,"Perin, Charles",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24129,CSC,497,I01,"Nacenta, Miguel",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24566,CSC,497,I06,"Chrimes, Dillon",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24565,CSC,497,I05,"Atkinson, David",ONL,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24560,CSC,497,I04,"Haworth, Brandon",ONL,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24505,CSC,497,I03,"Haworth, Brandon",ONL,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24504,CSC,497,I02,"Haworth, Brandon",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24575,CSC,497,I07,"Perin, Charles",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24576,CSC,497,I08,"Tzanetakis, George",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24506,CSC,499,I01,"Haworth, Brandon",ONL,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24507,CSC,499,I02,"Nacenta, Miguel",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,20834,CSC,502,A01,"Thomo, Alex",M,DTB,A104,1630.0,1750.0,MR,09-Jan-23,06-Apr-23,21,15,Computer Science,EN,A
-202301,20835,CSC,502,A02,"Thomo, Alex",M,DTB,A104,1630.0,1750.0,MR,09-Jan-23,06-Apr-23,19,19,Computer Science,EN,A
-202301,20836,CSC,503,A01,"Mehta, Nishant",M,MAC,D288,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,10,3,Computer Science,EN,A
-202301,20837,CSC,503,A02,"Mehta, Nishant",M,MAC,D288,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,3,0,Computer Science,EN,A
-202301,24086,CSC,511,A01,"Perin, Charles",M,MAC,D207,1430.0,1550.0,TW,09-Jan-23,06-Apr-23,22,19,Computer Science,EN,A
-202301,20841,CSC,529,A01,"Kapron, Bruce",M,COR,A221,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,8,1,Computer Science,EN,A
-202301,20842,CSC,529,A02,"Kapron, Bruce",M,COR,A221,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,10,0,Computer Science,EN,A
-202301,23998,CSC,546,A01,"Wu, Kui",M,CLE,A127,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,7,5,Computer Science,EN,A
-202301,24000,CSC,581A,A02,"Mehta, Nishant",M,CLE,B415,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,3,0,Computer Science,EN,A
-202301,20845,CSC,581A,A01,"Mehta, Nishant",M,CLE,B415,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,13,7,Computer Science,EN,A
-202301,20847,CSC,581D,A01,"Tzanetakis, George",M,MAC,D116,1630.0,1750.0,TR,09-Jan-23,06-Apr-23,5,3,Computer Science,EN,A
-202301,20848,CSC,586A,A01,"Muller, Hausi; Stege, Ulrike",M,DSB,C118,1430.0,1550.0,TF,09-Jan-23,06-Apr-23,20,12,Computer Science,EN,A
-202301,20849,CSC,586B,A01,"Somanath, Sowmya",M,COR,A120,830.0,950.0,MR,09-Jan-23,06-Apr-23,20,8,Computer Science,EN,A
-202301,20853,CSC,586C,A01,"Weber, Jens",M,HHB,116,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,40,7,Computer Science,EN,A
-202301,23922,CSC,586D,A01,"Haworth, Brandon",M,COR,B143,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,10,1,Computer Science,EN,A
-202301,24412,CSC,591,A05,"Ernst, Neil",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24305,CSC,591,A03,"Jabbari, Hosna",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24414,CSC,591,A06,"Coady, Yvonne",M,,,,,,09-Jan-23,06-Apr-23,0,0,Computer Science,EN,A
-202301,24417,CSC,591,A07,"Chester, Sean",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24418,CSC,591,A08,"Srinivasan, Venkatesh",OFF,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24303,CSC,591,A01,"Coady, Yvonne",M,,,,,,09-Jan-23,06-Apr-23,4,4,Computer Science,EN,A
-202301,24304,CSC,591,A02,"Schneider, Teseo",M,,,,,,09-Jan-23,06-Apr-23,2,2,Computer Science,EN,A
-202301,24596,CSC,591,A09,"Stege, Ulrike",OFF,,,,,,09-Jan-23,07-Apr-23,1,1,Computer Science,EN,A
-202301,24355,CSC,591,A04,"Wu, Kui",M,,,,,,09-Jan-23,06-Apr-23,3,3,Computer Science,EN,A
-202301,20856,CSC,597,A02,TBD,OFF,,,,,,09-Jan-23,06-Apr-23,100,0,Computer Science,EN,A
-202301,20855,CSC,597,A01,TBD,M,,,,,,09-Jan-23,06-Apr-23,100,2,Computer Science,EN,A
-202301,20857,CSC,598,A01,TBD,M,,,,,,09-Jan-23,06-Apr-23,100,7,Computer Science,EN,A
-202301,20858,CSC,598,A02,TBD,OFF,,,,,,09-Jan-23,06-Apr-23,100,2,Computer Science,EN,A
-202301,20859,CSC,599,A01,TBD,M,,,,,,09-Jan-23,06-Apr-23,100,46,Computer Science,EN,A
-202301,20860,CSC,599,A02,TBD,OFF,,,,,,09-Jan-23,06-Apr-23,100,7,Computer Science,EN,A
-202301,20861,CSC,693,A01,TBD,M,,,,,,09-Jan-23,06-Apr-23,100,28,Computer Science,EN,A
-202301,20862,CSC,693,A02,TBD,OFF,,,,,,09-Jan-23,06-Apr-23,100,2,Computer Science,EN,A
-202301,20863,CSC,699,A01,TBD,M,,,,,,09-Jan-23,06-Apr-23,100,13,Computer Science,EN,A
-202301,20864,CSC,699,A02,TBD,OFF,,,,,,09-Jan-23,06-Apr-23,100,3,Computer Science,EN,A
-202301,20923,ECE,300,A01,"Bornemann, Jens",M,HSD,A240,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,120,87,Electrical & Computer Engg,EN,A
-202301,20929,ECE,310,A02,"Alhussien, Nedaa; Dong, Xiaodai",M,DSB,C103,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,15,9,Electrical & Computer Engg,EN,A
-202301,20928,ECE,310,A01,"Alhussien, Nedaa; Dong, Xiaodai",M,DSB,C103,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,165,129,Electrical & Computer Engg,EN,A
-202301,20930,ECE,320,A01,"Papadopoulos, Christo",M,ECS,116,830.0,920.0,TWF,09-Jan-23,06-Apr-23,120,89,Electrical & Computer Engg,EN,A
-202301,20935,ECE,330,A01,"Shuja, Sana",M,BWC,A104,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,120,84,Electrical & Computer Engg,EN,A
-202301,20940,ECE,340,A01,"Lu, Tao",M,DSB,C103,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,120,74,Electrical & Computer Engg,EN,A
-202301,20946,ECE,360,A01,"Shuja, Sana",M,ELL,62,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,80,65,Electrical & Computer Engg,EN,A
-202301,20952,ECE,402,A01,"So, Poman",M,MAC,D283,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,30,1,Electrical & Computer Engg,EN,A
-202301,20953,ECE,404,A01,"Smith, Levi",M,ELL,161,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,24,8,Electrical & Computer Engg,EN,A
-202301,20957,ECE,405,A01,"Gulliver, Aaron",M,ECS,130,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,10,8,Electrical & Computer Engg,EN,A
-202301,20958,ECE,420,A01,"Papadopoulos, Christo",M,ELL,160,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,24,9,Electrical & Computer Engg,EN,A
-202301,20959,ECE,427,A01,"Papadopoulos, Christo",M,MAC,D287,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,30,26,Electrical & Computer Engg,EN,A
-202301,20960,ECE,434,A01,"Lu, Tao",M,ECS,130,1330.0,1420.0,TWF,09-Jan-23,06-Apr-23,12,6,Electrical & Computer Engg,EN,A
-202301,20961,ECE,435,A01,"Branzan Albu, Alexandra",M,ELL,160,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,30,13,Electrical & Computer Engg,EN,A
-202301,20962,ECE,449,A01,"Dimopoulos, Nikitas",M,DSB,C130,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,34,14,Electrical & Computer Engg,EN,A
-202301,20969,ECE,453,A01,"Bornemann, Jens",M,ECS,104,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,30,8,Electrical & Computer Engg,EN,A
-202301,20970,ECE,455,A01,"Baniasadi, Amirali",ONL,,,,,,09-Jan-23,06-Apr-23,96,95,Electrical & Computer Engg,EN,A
-202301,20974,ECE,457,A01,"Dimopoulos, Nikitas",M,CLE,A207,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,30,13,Electrical & Computer Engg,EN,A
-202301,20975,ECE,458,A01,"Cai, Lin",M,ECS,116,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,115,105,Electrical & Computer Engg,EN,A
-202301,20982,ECE,471,A01,"Branzan Albu, Alexandra",M,ELL,61,830.0,950.0,MR,09-Jan-23,06-Apr-23,41,27,Electrical & Computer Engg,EN,A
-202301,20983,ECE,482,A01,"Formiga Mamedes, Deisy",ONL,,,1600.0,1750.0,W,09-Jan-23,06-Apr-23,74,47,Electrical & Computer Engg,EN,A
-202301,20984,ECE,485,A01,"McGuire, Michael",M,COR,A221,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,40,18,Electrical & Computer Engg,EN,A
-202301,20985,ECE,488,A01,"Thirumarai Chelvan, Ilamparithi",M,ELL,62,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,74,46,Electrical & Computer Engg,EN,A
-202301,24407,ECE,490,A01,"Driessen, Peter",M,,,,,,09-Jan-23,06-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,20986,ECE,496A,A01,"Li, Wei; Dong, Xiaodai",ONL,,,1630.0,1920.0,R,09-Jan-23,06-Apr-23,12,0,Electrical & Computer Engg,EN,A
-202301,20987,ECE,496B,A01,"Altawy, Riham",M,DSB,C108,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,5,1,Electrical & Computer Engg,EN,A
-202301,20988,ECE,509,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,200,76,Electrical & Computer Engg,EN,A
-202301,20989,ECE,509,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,100,16,Electrical & Computer Engg,EN,A
-202301,20990,ECE,511,A01,"Gulliver, Aaron",M,ECS,130,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,12,4,Electrical & Computer Engg,EN,A
-202301,20991,ECE,511,A02,"Gulliver, Aaron",M,ECS,130,1030.0,1120.0,TWF,09-Jan-23,06-Apr-23,12,1,Electrical & Computer Engg,EN,A
-202301,20993,ECE,519A,A02,"Li, Wei; Dong, Xiaodai",ONL,,,1630.0,1920.0,R,09-Jan-23,06-Apr-23,12,5,Electrical & Computer Engg,EN,A
-202301,20992,ECE,519A,A01,"Li, Wei; Dong, Xiaodai",ONL,,,1630.0,1920.0,R,09-Jan-23,06-Apr-23,24,11,Electrical & Computer Engg,EN,A
-202301,20994,ECE,519B,A01,"Cai, Lin",M,CLE,A225,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,15,9,Electrical & Computer Engg,EN,A
-202301,20995,ECE,519B,A02,"Cai, Lin",M,CLE,A225,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,20,3,Electrical & Computer Engg,EN,A
-202301,20996,ECE,519C,A01,"Altawy, Riham",M,DSB,C108,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,20,18,Electrical & Computer Engg,EN,A
-202301,20997,ECE,519C,A02,"Altawy, Riham",M,DSB,C108,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,20,18,Electrical & Computer Engg,EN,A
-202301,20998,ECE,522,A01,"Bornemann, Jens",M,ECS,104,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,15,0,Electrical & Computer Engg,EN,A
-202301,20999,ECE,522,A02,"Bornemann, Jens",M,ECS,104,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,15,0,Electrical & Computer Engg,EN,A
-202301,21000,ECE,527,A01,"Papadopoulos, Christo",M,MAC,D287,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,10,0,Electrical & Computer Engg,EN,A
-202301,24319,ECE,529A,A01,"Lu, Tao",M,ECS,130,1430.0,1520.0,TWF,09-Jan-23,06-Apr-23,15,5,Electrical & Computer Engg,EN,A
-202301,21001,ECE,535,A01,"McGuire, Michael",M,COR,A221,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,30,11,Electrical & Computer Engg,EN,A
-202301,21002,ECE,535,A02,"McGuire, Michael",M,COR,A221,1230.0,1320.0,TWF,09-Jan-23,06-Apr-23,24,21,Electrical & Computer Engg,EN,A
-202301,21003,ECE,536,A01,"Branzan Albu, Alexandra",M,ELL,61,830.0,950.0,MR,09-Jan-23,06-Apr-23,27,14,Electrical & Computer Engg,EN,A
-202301,21004,ECE,545,A01,"Papadopoulos, Christo",M,ELL,160,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,14,3,Electrical & Computer Engg,EN,A
-202301,24072,ECE,553,A02,"Dimopoulos, Nikitas",M,CLE,A207,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,12,0,Electrical & Computer Engg,EN,A
-202301,21005,ECE,553,A01,"Dimopoulos, Nikitas",M,CLE,A207,1300.0,1420.0,MR,09-Jan-23,06-Apr-23,15,0,Electrical & Computer Engg,EN,A
-202301,21007,ECE,567,A02,"Ahmed, Sherif; Alhussien, Nedaa",M,COR,A229,830.0,950.0,MR,09-Jan-23,06-Apr-23,30,11,Electrical & Computer Engg,EN,A
-202301,21006,ECE,567,A01,"Ahmed, Sherif; Alhussien, Nedaa",M,COR,A229,830.0,950.0,MR,09-Jan-23,06-Apr-23,30,9,Electrical & Computer Engg,EN,A
-202301,21009,ECE,574,A02,"Perkins, Gary",M,ELL,168,1530.0,1820.0,F,09-Jan-23,06-Apr-23,19,22,Electrical & Computer Engg,EN,A
-202301,21008,ECE,574,A01,"Perkins, Gary",M,ELL,168,1530.0,1820.0,F,09-Jan-23,06-Apr-23,23,20,Electrical & Computer Engg,EN,A
-202301,24431,ECE,590,A04,"Gordon, Reuven",OFF,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24467,ECE,590,A07,"Dong, Xiaodai",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24314,ECE,590,A01,"Gulliver, Aaron",OFF,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24468,ECE,590,A08,"Khan, Zawar",OFF,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24420,ECE,590,A03,"Gulliver, Aaron",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24419,ECE,590,A02,"Saidaminov, Makhsud",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24501,ECE,590,A09,"Thirumarai Chelvan, Ilamparithi",M,,,,,,09-Jan-23,07-Apr-23,5,5,Electrical & Computer Engg,EN,A
-202301,24529,ECE,590,A10,"Li, Kin Fun",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24538,ECE,590,A11,"Gulliver, Aaron",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24465,ECE,590,A05,"Saidaminov, Makhsud",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,24466,ECE,590,A06,"Thirumarai Chelvan, Ilamparithi",M,,,,,,09-Jan-23,07-Apr-23,1,1,Electrical & Computer Engg,EN,A
-202301,21010,ECE,591,A01,"Bourguiba, Imen",M,ECS,130,1530.0,1620.0,R,09-Jan-23,06-Apr-23,34,28,Electrical & Computer Engg,EN,A
-202301,24318,ECE,592A,A01,"Kobb, Anna; Altawy, Riham",M,ELL,160,1630.0,1820.0,TW,10-Jan-23,25-Jan-23,30,12,Electrical & Computer Engg,EN,A
-202301,21011,ECE,598,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,100,35,Electrical & Computer Engg,EN,A
-202301,21012,ECE,598,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,50,5,Electrical & Computer Engg,EN,A
-202301,21014,ECE,599,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,50,9,Electrical & Computer Engg,EN,A
-202301,21013,ECE,599,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,100,42,Electrical & Computer Engg,EN,A
-202301,21015,ECE,609,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,100,60,Electrical & Computer Engg,EN,A
-202301,21016,ECE,609,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,100,12,Electrical & Computer Engg,EN,A
-202301,21017,ECE,693,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,100,43,Electrical & Computer Engg,EN,A
-202301,21018,ECE,693,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,50,5,Electrical & Computer Engg,EN,A
-202301,21019,ECE,699,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,100,62,Electrical & Computer Engg,EN,A
-202301,21020,ECE,699,A02,TBD,OFF,,,,,,09-Jan-23,26-Apr-23,50,10,Electrical & Computer Engg,EN,A
-202301,21334,ENGR,121,A02,"Thirumarai Chelvan, Ilamparithi",M,FRA,159,1530.0,1620.0,T,09-Jan-23,06-Apr-23,20,10,Electrical & Computer Engg,EN,A
-202301,21333,ENGR,121,A01,"Thirumarai Chelvan, Ilamparithi",M,FRA,159,1430.0,1520.0,T,09-Jan-23,06-Apr-23,20,9,Electrical & Computer Engg,EN,A
-202301,23664,ENGR,130,A01,"Stegman, Kelly; Raisinghani, Monty",M,ECS,116,1700.0,1850.0,W,09-Jan-23,03-Mar-23,70,44,Engineering & Computer Science,EN,A
-202301,21351,ENGR,141,A01,"Firmani, Flavio; Saghlatoun, Saeedeh",M,HHB,105,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,210,197,Mechanical Engineering,EN,A
-202301,21352,ENGR,141,A02,"Firmani, Flavio; Saghlatoun, Saeedeh",M,DTB,A120,1530.0,1650.0,MR,09-Jan-23,06-Apr-23,210,103,Mechanical Engineering,EN,A
-202301,21368,ENGR,446,A01,"Senini, Ash",OFF,,,,,,09-Jan-23,06-Apr-23,60,55,Engineering & Computer Science,EN,A
-202301,21369,ENGR,446,A02,"Senini, Ash",OFF,,,,,,09-Jan-23,06-Apr-23,60,15,Engineering & Computer Science,EN,A
-202301,21370,ENGR,498,A01,"Sharma, Panch Rishi",M,ELL,167,1700.0,1950.0,T,09-Jan-23,06-Apr-23,140,140,Engineering & Computer Science,EN,A
-202301,22936,SENG,265,A02,"Muller, Hausi",M,DSB,C103,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,24,23,Computer Science,EN,A
-202301,22935,SENG,265,A01,"Muller, Hausi",M,DSB,C103,930.0,1020.0,TWF,09-Jan-23,06-Apr-23,161,139,Computer Science,EN,A
-202301,22942,SENG,275,A01,"Popli, Navneet",M,CLE,C112,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,31,28,Computer Science,EN,A
-202301,22943,SENG,275,A02,"Popli, Navneet",M,CLE,C112,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,39,35,Computer Science,EN,A
-202301,22949,SENG,310,A02,"Somanath, Sowmya",M,BWC,B150,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,25,22,Computer Science,EN,A
-202301,22948,SENG,310,A01,"Somanath, Sowmya",M,BWC,B150,1130.0,1250.0,MR,09-Jan-23,06-Apr-23,80,70,Computer Science,EN,A
-202301,22956,SENG,321,A02,"Ernst, Neil",M,MAC,D207,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,48,47,Computer Science,EN,A
-202301,22955,SENG,321,A01,"Ernst, Neil",M,MAC,D207,1000.0,1120.0,MR,09-Jan-23,06-Apr-23,12,11,Computer Science,EN,A
-202301,22960,SENG,371,A02,"Mughal, Shuja",M,ELL,167,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,74,74,Computer Science,EN,A
-202301,22959,SENG,371,A01,"Mughal, Shuja",M,ELL,167,1430.0,1520.0,MWR,09-Jan-23,06-Apr-23,8,7,Computer Science,EN,A
-202301,22965,SENG,401,A02,"King, Valerie",M,MAC,D207,1630.0,1750.0,MW,09-Jan-23,06-Apr-23,63,62,Computer Science,EN,A
-202301,22966,SENG,460,A01,"Perkins, Gary",M,ELL,168,1530.0,1820.0,F,09-Jan-23,06-Apr-23,40,40,Electrical & Computer Engg,EN,A
-202301,22967,SENG,460,A02,"Perkins, Gary",M,ELL,168,1530.0,1820.0,F,09-Jan-23,06-Apr-23,98,97,Electrical & Computer Engg,EN,A
-202301,22969,SENG,468,A02,"Popli, Navneet",M,ELL,62,1330.0,1420.0,TWF,09-Jan-23,06-Apr-23,38,28,Electrical & Computer Engg,EN,A
-202301,22968,SENG,468,A01,"Popli, Navneet",M,ELL,62,1330.0,1420.0,TWF,09-Jan-23,06-Apr-23,28,18,Electrical & Computer Engg,EN,A
-202301,22973,SENG,474,A01,"Mehta, Nishant",M,MAC,D288,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,39,24,Computer Science,EN,A
-202301,22974,SENG,474,A02,"Mehta, Nishant",M,MAC,D288,1130.0,1220.0,TWF,09-Jan-23,06-Apr-23,23,12,Computer Science,EN,A
-202301,22980,SENG,480D,A02,"Muller, Hausi; Stege, Ulrike",M,DSB,C118,1430.0,1550.0,TF,09-Jan-23,06-Apr-23,9,7,Computer Science,EN,A
-202301,22979,SENG,480D,A01,"Muller, Hausi; Stege, Ulrike",M,DSB,C118,1430.0,1550.0,TF,09-Jan-23,06-Apr-23,40,28,Computer Science,EN,A
-202301,24549,SENG,490,A01,"Storey, Margaret-Anne",M,,,,,,09-Jan-23,06-Apr-23,1,1,Computer Science,EN,A
-202301,24049,VIRS,302,A01,TBD,M,,,,,,09-Jan-23,26-Apr-23,50,2,Engineering & Computer Science,EN,A
+Term,Subj,Num,Dept Desc,Units,Cap,Enrolled,Yr
+Fall,CSC,105,Computer Science,3.0,338.0,304.0,1
+Fall,CSC,106,Computer Science,1.5,150.0,109.0,1
+Fall,CSC,110,Computer Science,7.5,335.0,405.0,1
+Fall,CSC,111,Computer Science,6.0,475.0,292.0,1
+Fall,CSC,115,Computer Science,3.0,176.0,159.0,1
+Fall,CSC,116,Computer Science,3.0,180.0,145.0,1
+Fall,CSC,130,Computer Science,1.5,180.0,168.0,1
+Fall,CSC,225,Computer Science,3.0,216.0,197.0,2
+Fall,CSC,226,Computer Science,3.0,153.0,96.0,2
+Fall,CSC,230,Computer Science,1.5,160.0,128.0,2
+Fall,CSC,299,Computer Science,3.0,2.0,2.0,2
+Fall,CSC,305,Computer Science,3.0,150.0,113.0,3
+Fall,CSC,320,Computer Science,3.0,95.0,47.0,3
+Fall,CSC,349A,Computer Science,3.0,215.0,206.0,3
+Fall,CSC,355,Computer Science,3.0,137.0,110.0,3
+Fall,CSC,360,Computer Science,3.0,175.0,144.0,3
+Fall,CSC,361,Computer Science,3.0,120.0,71.0,3
+Fall,CSC,370,Computer Science,4.5,180.0,157.0,3
+Fall,CSC,375,Computer Science,3.0,135.0,114.0,3
+Fall,CSC,411,Computer Science,3.0,45.0,47.0,4
+Fall,CSC,421,Computer Science,3.0,166.0,152.0,4
+Fall,CSC,425,Computer Science,3.0,30.0,15.0,4
+Fall,CSC,466,Computer Science,3.0,50.0,36.0,4
+Fall,CSC,482A,Computer Science,3.0,45.0,11.0,4
+Fall,CSC,482B,Computer Science,1.5,8.0,7.0,4
+Fall,CSC,485C,Computer Science,3.0,47.0,36.0,4
+Fall,CSC,486B,Computer Science,3.0,45.0,10.0,4
+Fall,CSC,490,Computer Science,1.5,1.0,1.0,4
+Fall,CSC,497,Computer Science,12.0,8.0,8.0,4
+Fall,CSC,499,Computer Science,3.0,2.0,2.0,4
+Fall,ECE,216,Electrical & Computer Engg,1.5,60.0,30.0,2
+Fall,ECE,241,Electrical & Computer Engg,3.0,120.0,120.0,2
+Fall,ECE,250,Electrical & Computer Engg,1.5,250.0,150.0,2
+Fall,ECE,255,Electrical & Computer Engg,1.5,145.0,127.0,2
+Fall,ECE,260,Electrical & Computer Engg,3.0,148.0,117.0,2
+Fall,ECE,335,Electrical & Computer Engg,1.5,4.0,0.0,3
+Fall,ECE,350,Electrical & Computer Engg,1.5,100.0,77.0,3
+Fall,ECE,355,Electrical & Computer Engg,1.5,180.0,145.0,3
+Fall,ECE,356,Electrical & Computer Engg,3.0,60.0,40.0,3
+Fall,ECE,360,Electrical & Computer Engg,1.5,140.0,78.0,3
+Fall,ECE,365,Electrical & Computer Engg,1.5,160.0,127.0,3
+Fall,ECE,370,Electrical & Computer Engg,1.5,115.0,72.0,3
+Fall,ECE,380,Electrical & Computer Engg,1.5,115.0,64.0,3
+Fall,ECE,399,Electrical & Computer Engg,1.5,110.0,84.0,3
+Fall,ECE,403,Electrical & Computer Engg,1.5,20.0,15.0,4
+Fall,ECE,412,Electrical & Computer Engg,1.5,17.0,12.0,4
+Fall,ECE,463,Electrical & Computer Engg,1.5,55.0,24.0,4
+Fall,ECE,484,Electrical & Computer Engg,3.0,35.0,16.0,4
+Fall,ECE,490,Electrical & Computer Engg,3.0,2.0,2.0,4
+Fall,SENG,265,Computer Science,3.0,215.0,198.0,2
+Fall,SENG,310,Computer Science,3.0,78.0,76.0,3
+Fall,SENG,321,Computer Science,3.0,72.0,67.0,3
+Fall,SENG,350,Computer Science,3.0,85.0,71.0,3
+Fall,SENG,360,Computer Science,3.0,100.0,81.0,3
+Fall,SENG,474,Computer Science,3.0,78.0,50.0,4
+Fall,SENG,480B,Computer Science,3.0,45.0,31.0,4
+Fall,SENG,490,Computer Science,1.5,1.0,1.0,4
+Spring,CSC,105,Computer Science,1.5,316.0,284.0,1
+Spring,CSC,106,Computer Science,1.5,125.0,100.0,1
+Spring,CSC,110,Computer Science,4.5,190.0,177.0,1
+Spring,CSC,111,Computer Science,1.5,138.0,134.0,1
+Spring,CSC,115,Computer Science,10.5,364.0,355.0,1
+Spring,CSC,130,Computer Science,1.5,125.0,118.0,1
+Spring,CSC,225,Computer Science,3.0,160.0,147.0,2
+Spring,CSC,226,Computer Science,3.0,180.0,166.0,2
+Spring,CSC,230,Computer Science,3.0,145.0,133.0,2
+Spring,CSC,305,Computer Science,3.0,125.0,104.0,3
+Spring,CSC,320,Computer Science,4.5,210.0,187.0,3
+Spring,CSC,322,Computer Science,3.0,90.0,73.0,3
+Spring,CSC,330,Computer Science,3.0,86.0,66.0,3
+Spring,CSC,349A,Computer Science,3.0,337.0,302.0,3
+Spring,CSC,350,Computer Science,1.5,75.0,65.0,3
+Spring,CSC,360,Computer Science,3.0,150.0,95.0,3
+Spring,CSC,361,Computer Science,1.5,150.0,52.0,3
+Spring,CSC,370,Computer Science,3.0,150.0,116.0,3
+Spring,CSC,411,Computer Science,3.0,38.0,36.0,4
+Spring,CSC,429,Computer Science,3.0,72.0,27.0,4
+Spring,CSC,446,Computer Science,3.0,98.0,96.0,4
+Spring,CSC,473,Computer Science,3.0,76.0,42.0,4
+Spring,CSC,482A,Computer Science,3.0,15.0,1.0,4
+Spring,CSC,484D,Computer Science,1.5,25.0,17.0,4
+Spring,CSC,485B,Computer Science,3.0,63.0,49.0,4
+Spring,CSC,485E,Computer Science,3.0,47.0,26.0,4
+Spring,CSC,490,Computer Science,1.5,1.0,1.0,4
+Spring,CSC,497,Computer Science,12.0,8.0,8.0,4
+Spring,CSC,499,Computer Science,3.0,2.0,2.0,4
+Summer,CSC,110,Computer Science,4.5,83.0,69.0,1
+Summer,CSC,115,Computer Science,3.0,78.0,91.0,1
+Summer,CSC,130,Computer Science,3.0,60.0,36.0,1
+Summer,CSC,225,Computer Science,3.0,75.0,58.0,2
+Summer,CSC,226,Computer Science,3.0,100.0,74.0,2
+Summer,CSC,230,Computer Science,3.0,65.0,46.0,2
+Summer,CSC,320,Computer Science,3.0,141.0,120.0,3
+Summer,CSC,360,Computer Science,3.0,95.0,69.0,3
+Summer,CSC,370,Computer Science,3.0,113.0,85.0,3
+Summer,CSC,445,Computer Science,3.0,120.0,96.0,4
+Summer,CSC,482A,Computer Science,3.0,46.0,31.0,4
+Summer,CSC,485C,Computer Science,3.0,85.0,50.0,4
+Summer,CSC,490,Computer Science,1.5,1.0,0.0,4
+Summer,CSC,497,Computer Science,6.0,4.0,4.0,4
+Summer,CSC,499,Computer Science,7.5,5.0,5.0,4
+Summer,ECE,216,Electrical & Computer Engg,1.5,250.0,122.0,2
+Summer,ECE,220,Electrical & Computer Engg,1.5,90.0,60.0,2
+Summer,ECE,242,Electrical & Computer Engg,1.5,36.0,28.0,2
+Summer,ECE,250,Electrical & Computer Engg,1.5,60.0,15.0,2
+Summer,ECE,260,Electrical & Computer Engg,3.0,115.0,68.0,2
+Summer,ECE,299,Electrical & Computer Engg,3.0,180.0,126.0,2
+Summer,ECE,310,Electrical & Computer Engg,3.0,80.0,26.0,3
+Summer,ECE,403,Electrical & Computer Engg,1.5,60.0,13.0,4
+Summer,ECE,410,Electrical & Computer Engg,1.5,70.0,33.0,4
+Summer,ECE,441,Electrical & Computer Engg,1.5,58.0,49.0,4
+Summer,ECE,450,Electrical & Computer Engg,1.5,40.0,5.0,4
+Summer,ECE,456,Electrical & Computer Engg,1.5,30.0,17.0,4
+Summer,ECE,470,Electrical & Computer Engg,6.0,150.0,102.0,4
+Summer,ECE,481,Electrical & Computer Engg,1.5,50.0,15.0,4
+Summer,ECE,490,Electrical & Computer Engg,4.5,3.0,3.0,4
+Summer,ECE,496A,Electrical & Computer Engg,1.5,60.0,53.0,4
+Summer,ECE,498,Electrical & Computer Engg,3.0,1.0,1.0,4
+Summer,ECE,499,Electrical & Computer Engg,1.5,90.0,63.0,4
+Summer,SENG,265,Computer Science,3.0,82.0,67.0,2
+Summer,SENG,275,Computer Science,1.5,55.0,35.0,2
+Summer,SENG,310,Computer Science,3.0,125.0,121.0,3
+Summer,SENG,426,Electrical & Computer Engg,3.0,91.0,81.0,4
+Summer,SENG,440,Electrical & Computer Engg,3.0,110.0,94.0,4
+Summer,SENG,474,Computer Science,3.0,92.0,45.0,4
+Summer,SENG,475,Electrical & Computer Engg,3.0,40.0,25.0,4
+Summer,SENG,499,Electrical & Computer Engg,1.5,84.0,77.0,4
