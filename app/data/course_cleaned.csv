@@ -1,0 +1,106 @@
+Subj,Course,Term,Term Yr,Class Yr,Dept Desc,Cap,Enrolled
+CSC,CSC 111,Fall,2019,1,Computer Science,400,346
+CSC,CSC 115,Fall,2019,1,Computer Science,150,130
+CSC,CSC 115,Summer,2019,1,Computer Science,115,86
+CSC,CSC 225,Fall,2019,2,Computer Science,215,197
+CSC,CSC 225,Summer,2019,2,Computer Science,145,63
+CSC,CSC 226,Fall,2019,2,Computer Science,140,87
+CSC,CSC 226,Summer,2019,2,Computer Science,120,91
+CSC,CSC 230,Fall,2019,2,Computer Science,200,149
+CSC,CSC 230,Summer,2019,2,Computer Science,115,53
+CSC,CSC 320,Fall,2019,3,Computer Science,174,166
+CSC,CSC 320,Summer,2019,3,Computer Science,136,123
+CSC,CSC 355,Fall,2019,3,Computer Science,140,130
+CSC,CSC 360,Fall,2019,3,Computer Science,148,142
+CSC,CSC 361,Fall,2019,3,Computer Science,150,144
+CSC,CSC 370,Fall,2019,3,Computer Science,150,135
+CSC,CSC 370,Summer,2019,3,Computer Science,80,78
+ECE,ECE 255,Fall,2019,2,Electrical & Computer Engg,120,83
+ECE,ECE 260,Fall,2019,2,Electrical & Computer Engg,144,122
+ECE,ECE 260,Summer,2019,2,Electrical & Computer Engg,130,111
+ECE,ECE 310,Summer,2019,3,Electrical & Computer Engg,95,33
+ECE,ECE 355,Fall,2019,3,Electrical & Computer Engg,154,150
+ECE,ECE 360,Fall,2019,3,Electrical & Computer Engg,117,101
+SENG,SENG 265,Fall,2019,2,Computer Science,215,199
+SENG,SENG 265,Summer,2019,2,Computer Science,115,84
+SENG,SENG 275,Fall,2019,2,Computer Science,693,748
+SENG,SENG 275,Summer,2019,2,Computer Science,60,69
+SENG,SENG 310,Summer,2019,3,Computer Science,140,118
+SENG,SENG 321,Fall,2019,3,Computer Science,50,54
+SENG,SENG 350,Fall,2019,3,Computer Science,93,53
+SENG,SENG 360,Fall,2019,3,Computer Science,115,112
+SENG,SENG 426,Summer,2019,4,Engineering & Computer Science,66,60
+SENG,SENG 440,Summer,2019,4,Engineering & Computer Science,95,70
+SENG,SENG 499,Summer,2019,4,Engineering & Computer Science,45,39
+CSC,CSC 111,Spring,2020,1,Computer Science,115,90
+CSC,CSC 115,Spring,2020,1,Computer Science,380,299
+CSC,CSC 225,Spring,2020,2,Computer Science,175,145
+CSC,CSC 226,Spring,2020,2,Computer Science,200,142
+CSC,CSC 230,Spring,2020,2,Computer Science,175,133
+CSC,CSC 320,Spring,2020,3,Computer Science,117,109
+CSC,CSC 360,Spring,2020,3,Computer Science,173,148
+CSC,CSC 361,Spring,2020,3,Computer Science,175,109
+CSC,CSC 370,Spring,2020,3,Computer Science,150,99
+CSC,CSC 460,Spring,2020,4,Computer Science,35,30
+ECE,ECE 310,Spring,2020,3,Electrical & Computer Engg,195,163
+ECE,ECE 360,Spring,2020,3,Electrical & Computer Engg,80,65
+ECE,ECE 455,Spring,2020,4,Electrical & Computer Engg,70,62
+ECE,ECE 458,Spring,2020,4,Electrical & Computer Engg,94,90
+SENG,SENG 265,Spring,2020,2,Computer Science,147,114
+SENG,SENG 310,Spring,2020,3,Computer Science,150,130
+SENG,SENG 321,Spring,2020,3,Computer Science,72,66
+SENG,SENG 371,Spring,2020,3,Computer Science,75,71
+SENG,SENG 401,Spring,2020,4,Computer Science,70,70
+CSC,CSC 111,Fall,2022,1,Computer Science,475,292
+CSC,CSC 115,Fall,2022,1,Computer Science,176,159
+CSC,CSC 115,Summer,2022,1,Computer Science,78,91
+CSC,CSC 225,Fall,2022,2,Computer Science,216,197
+CSC,CSC 225,Summer,2022,2,Computer Science,75,58
+CSC,CSC 226,Fall,2022,2,Computer Science,153,96
+CSC,CSC 226,Summer,2022,2,Computer Science,100,74
+CSC,CSC 230,Fall,2022,2,Computer Science,160,128
+CSC,CSC 230,Summer,2022,2,Computer Science,65,46
+CSC,CSC 320,Fall,2022,3,Computer Science,95,47
+CSC,CSC 320,Summer,2022,3,Computer Science,141,120
+CSC,CSC 355,Fall,2022,3,Computer Science,137,110
+CSC,CSC 360,Fall,2022,3,Computer Science,175,144
+CSC,CSC 360,Summer,2022,3,Computer Science,95,69
+CSC,CSC 361,Fall,2022,3,Computer Science,120,71
+CSC,CSC 370,Fall,2022,3,Computer Science,180,157
+CSC,CSC 370,Summer,2022,3,Computer Science,113,85
+ECE,ECE 255,Fall,2022,2,Electrical & Computer Engg,145,127
+ECE,ECE 260,Fall,2022,2,Electrical & Computer Engg,148,117
+ECE,ECE 260,Summer,2022,2,Electrical & Computer Engg,115,68
+ECE,ECE 310,Summer,2022,3,Electrical & Computer Engg,80,26
+ECE,ECE 355,Fall,2022,3,Electrical & Computer Engg,180,145
+ECE,ECE 360,Fall,2022,3,Electrical & Computer Engg,140,78
+SENG,SENG 265,Fall,2022,2,Computer Science,215,198
+SENG,SENG 265,Summer,2022,2,Computer Science,82,67
+SENG,SENG 275,Summer,2022,2,Computer Science,55,35
+SENG,SENG 310,Fall,2022,3,Computer Science,78,76
+SENG,SENG 310,Summer,2022,3,Computer Science,125,121
+SENG,SENG 321,Fall,2022,3,Computer Science,72,67
+SENG,SENG 350,Fall,2022,3,Computer Science,85,71
+SENG,SENG 360,Fall,2022,3,Computer Science,100,81
+SENG,SENG 426,Summer,2022,4,Electrical & Computer Engg,91,81
+SENG,SENG 440,Summer,2022,4,Electrical & Computer Engg,110,94
+SENG,SENG 499,Summer,2022,4,Electrical & Computer Engg,84,77
+CSC,CSC 111,Spring,2023,1,Computer Science,138,134
+CSC,CSC 115,Spring,2023,1,Computer Science,364,355
+CSC,CSC 225,Spring,2023,2,Computer Science,160,147
+CSC,CSC 226,Spring,2023,2,Computer Science,180,166
+CSC,CSC 230,Spring,2023,2,Computer Science,145,133
+CSC,CSC 320,Spring,2023,3,Computer Science,210,187
+CSC,CSC 360,Spring,2023,3,Computer Science,150,95
+CSC,CSC 361,Spring,2023,3,Computer Science,150,52
+CSC,CSC 370,Spring,2023,3,Computer Science,150,116
+ECE,ECE 310,Spring,2023,3,Electrical & Computer Engg,180,138
+ECE,ECE 360,Spring,2023,3,Electrical & Computer Engg,80,65
+ECE,ECE 455,Spring,2023,4,Electrical & Computer Engg,96,95
+ECE,ECE 458,Spring,2023,4,Electrical & Computer Engg,115,105
+SENG,SENG 265,Spring,2023,2,Computer Science,185,162
+SENG,SENG 275,Spring,2023,2,Computer Science,70,63
+SENG,SENG 310,Spring,2023,3,Computer Science,105,92
+SENG,SENG 321,Spring,2023,3,Computer Science,60,58
+SENG,SENG 371,Spring,2023,3,Computer Science,82,81
+SENG,SENG 401,Spring,2023,4,Computer Science,63,62
