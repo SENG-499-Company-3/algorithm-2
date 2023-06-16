@@ -1,0 +1,542 @@
+[
+  {
+    "course": "CSC 111",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 134
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 220
+      }
+    ]
+  },
+  {
+    "course": "CSC 115",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 355
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 238
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 186
+      }
+    ]
+  },
+  {
+    "course": "CSC 225",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 147
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 158
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 107
+      }
+    ]
+  },
+  {
+    "course": "CSC 226",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 166
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 140
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 117
+      }
+    ]
+  },
+  {
+    "course": "CSC 230",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 133
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 136
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 101
+      }
+    ]
+  },
+  {
+    "course": "CSC 320",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 187
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 118
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 133
+      }
+    ]
+  },
+  {
+    "course": "CSC 360",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 95
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 102
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 84
+      }
+    ]
+  },
+  {
+    "course": "CSC 361",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 52
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 88
+      }
+    ]
+  },
+  {
+    "course": "CSC 370",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 116
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 110
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 96
+      }
+    ]
+  },
+  {
+    "course": "ECE 310",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 138
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 128
+      }
+    ]
+  },
+  {
+    "course": "ECE 360",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 65
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 91
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 82
+      }
+    ]
+  },
+  {
+    "course": "ECE 455",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 95
+      }
+    ]
+  },
+  {
+    "course": "ECE 458",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 105
+      }
+    ]
+  },
+  {
+    "course": "SENG 265",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 162
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 143
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 99
+      }
+    ]
+  },
+  {
+    "course": "SENG 275",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 63
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 113
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 73
+      }
+    ]
+  },
+  {
+    "course": "SENG 310",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 92
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 76
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 88
+      }
+    ]
+  },
+  {
+    "course": "SENG 321",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 58
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 70
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 76
+      }
+    ]
+  },
+  {
+    "course": "SENG 371",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 81
+      },
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 81
+      }
+    ]
+  },
+  {
+    "course": "SENG 401",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Spring",
+        "size": 62
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 63
+      }
+    ]
+  },
+  {
+    "course": "CSC 355",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 116
+      }
+    ]
+  },
+  {
+    "course": "CSC 355",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 116
+      }
+    ]
+  },
+  {
+    "course": "CSC 360",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 102
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 84
+      }
+    ]
+  },
+  {
+    "course": "CSC 361",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 88
+      }
+    ]
+  },
+  {
+    "course": "CSC 370",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 110
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 96
+      }
+    ]
+  },
+  {
+    "course": "ECE 360",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 91
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 82
+      }
+    ]
+  },
+  {
+    "course": "SENG 265",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 143
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 99
+      }
+    ]
+  },
+  {
+    "course": "SENG 275",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 113
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 73
+      }
+    ]
+  },
+  {
+    "course": "SENG 310",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 76
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 88
+      }
+    ]
+  },
+  {
+    "course": "SENG 321",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Fall",
+        "size": 70
+      },
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 76
+      }
+    ]
+  },
+  {
+    "course": "SENG 401",
+    "prereq": [],
+    "coreq": [],
+    "pastEnrol": [
+      {
+        "year": 2023,
+        "term": "Summer",
+        "size": 63
+      }
+    ]
+  }
+]
