@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Prod Merge 🛎
-        run: gh pr create -B prod -H dev --title 'Merge branch_to_merge into base_branch' --body 'Created by Github action'
+        run: gh pr create -B prod -H dev --title 'Merge dev into prod' --body 'Created by Github action'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
