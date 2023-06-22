@@ -9,25 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎
-        # https://github.com/actions/checkout
-        uses: actions/checkout@v3
-        with:
-          # check out all branches
-          fetch-depth: 0    
-      - name: Merge dev into prod
-        run: |
-          git checkout prod
-          git merge dev
-          
-      - name: Push changes to prod
-        run: |
-          git push origin prod
-          
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: prod
-          title: Merge dev into prod 
-          body: Automated pull request to merge changes from dev into prod          
+      - name: Prod Merge 🛎
+        run: gh pr create -B prod -H dev --title 'Merge branch_to_merge into base_branch' --body 'Created by Github action'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
