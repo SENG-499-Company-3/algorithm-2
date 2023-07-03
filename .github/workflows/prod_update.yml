@@ -7,20 +7,9 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎
-        # https://github.com/actions/checkout
-        uses: actions/checkout@v3
-        with:
-          # check out all branches
-          fetch-depth: 0
-      - name: Update Git branch prod
-        run: |
-          git config user.name "Update branch"
-          git config user.email github-actions@github.com
-          git checkout prod
-          git merge dev --no-edit -m "Merged dev branch on $(date +%F)"
-      - name: Push the updated branch prod
-        run: |
-          git push origin prod
+      - name: Prod Merge 🛎
+        run: gh pr create -B prod -H dev --title 'Merge dev into prod' --body 'Created by Github action'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
