@@ -33,11 +33,11 @@ def fill_missing(X, LUT):
 
     return X
 
-def construct_instance(LUT):
+def construct_instance(LUT,course,term,):
     X_new = pd.DataFrame({
-        'Course': ['CSC 225'],
+        'Course': [course],
         'TF_IDF': [np.nan],
-        'Term': ['Summer'],	
+        'Term': [term],	
         'Term Yr': [2024],	
         'Class Yr': [np.nan],	
         'Dept Desc': [np.nan],
@@ -58,5 +58,3 @@ def perform_algorithm():
     print(f"For {X['Course'].values[0]} in {X['Term'].values[0]} {X['Term Yr'].values[0]}:\nWe predict {prediction} students will enroll 🎉")
     
     return prediction
-
-perform_algorithm()

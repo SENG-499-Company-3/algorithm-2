@@ -1,18 +1,28 @@
 from fastapi import APIRouter, Body
+from app.data_model.course import Course
 
 from app.model.predict import perform_algorithm
 
 router = APIRouter()
 
 @router.post("/schedule/", response_model=list, response_model_exclude_unset=True, tags=["Schedule"])
-def predict_class_sizes() -> list:
+def predict_class_sizes(courses: list[Course]) -> list:
     """
     Predicts class sizes for courses based on past enrollment data.
 
     Returns:
         A list of dictionaries containing course information and predicted class sizes.
     """
-    perform_algorithm()
+    predictions = []
+    term_dict = {"Spring":1,"Summer":5,"Fall":9}
+    for course in courses:
+        if course.course == "ECE 363":
+            course.course = "ECE 458"
+        class_size = perform_algorithm(course.course,term_dict[course.term])
+        predictions.append({course.course:class_size})
+
+    
+    # perform_algorithm()
     return mock_data
 
 # Example value
