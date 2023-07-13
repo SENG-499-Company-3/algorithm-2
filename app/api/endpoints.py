@@ -1,5 +1,7 @@
 from fastapi import APIRouter, Body
 
+from app.model.predict import perform_algorithm
+
 router = APIRouter()
 
 @router.post("/schedule/", response_model=list, response_model_exclude_unset=True, tags=["Schedule"])
@@ -10,6 +12,7 @@ def predict_class_sizes() -> list:
     Returns:
         A list of dictionaries containing course information and predicted class sizes.
     """
+    perform_algorithm()
     return mock_data
 
 # Example value
