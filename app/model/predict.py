@@ -3,10 +3,6 @@ from sklearn.impute import IterativeImputer
 import pandas as pd
 import numpy as np
 import pickle
-import os
-
-directory = os.listdir('.')
-print(directory)
 
 def load():
     with open('./app/model/best_regressor.pkl', 'rb') as f:
