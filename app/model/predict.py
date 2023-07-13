@@ -3,12 +3,16 @@ from sklearn.impute import IterativeImputer
 import pandas as pd
 import numpy as np
 import pickle
+import os
+
+directory = os.listdir('.')
+print(directory)
 
 def load():
-    with open('../data/best_regressor.pkl', 'rb') as f:
+    with open('./app/model/best_regressor.pkl', 'rb') as f:
         model = pickle.load(f)
     
-    with open('../data/lut.pkl', 'rb') as f:
+    with open('./app/model/lut.pkl', 'rb') as f:
         lut = pickle.load(f)
     
     return model, lut
@@ -59,5 +63,4 @@ def perform_algorithm():
     
     return prediction
 
-if __name__ == "__main__":
-    perform_algorithm()
+perform_algorithm()
