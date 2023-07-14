@@ -54,7 +54,5 @@ def perform_algorithm(course,term):
     model, LUT = load()
     X = construct_instance(LUT,course,term)
     prediction = round(model.predict(X)[0], 0)
-
-    print(f"For {X['Course'].values[0]} in {X['Term'].values[0]} {X['Term Yr'].values[0]}:\nWe predict {prediction} students will enroll 🎉")
     
     return prediction
