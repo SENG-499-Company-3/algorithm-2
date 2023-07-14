@@ -44,15 +44,15 @@ def construct_instance(LUT,course,term):
         'Cap': [np.nan],		
         'Enrolled Ratio': [np.nan]
     })
-
+    print(course,term)
     X_filled = fill_missing(X_new, LUT)
 
     return X_filled
 
 
-def perform_algorithm(course_size, term):
+def perform_algorithm(course,term):
     model, LUT = load()
-    X = construct_instance(LUT,course_size,term)
+    X = construct_instance(LUT,course,term)
     prediction = round(model.predict(X)[0], 0)
 
     print(f"For {X['Course'].values[0]} in {X['Term'].values[0]} {X['Term Yr'].values[0]}:\nWe predict {prediction} students will enroll 🎉")

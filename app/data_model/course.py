@@ -11,4 +11,4 @@ class Course(BaseModel):
     term: int
     prereq: List[str] = []
     coreq: List[str] = []
-    pastEnrol: list[pastEnrol] | None = None
+    pastEnrol: list[pastEnrol] | None
