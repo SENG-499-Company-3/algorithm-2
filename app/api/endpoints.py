@@ -20,9 +20,10 @@ def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
         course_name = course.course
         if course.course == "ECE 363":
             course_name = "ECE 458"
-        class_size = perform_algorithm(course_name,term_dict[course.term])
-        prediction = Prediction(course=course.course,term=course.term,size = class_size)
-        predictions.append(prediction)
+        for term in course.Term:
+            class_size = perform_algorithm(course_name,term_dict[term],course.Year)
+            prediction = Prediction(course=course.course,term=term,size = class_size)
+            predictions.append(prediction)
 
     return predictions
 
