@@ -1,4 +1,6 @@
 from fastapi import APIRouter, Body
+from fastapi.encoders import jsonable_encoder
+from fastapi.responses import JSONResponse
 from app.data_model.course import Course
 from app.data_model.prediction import Prediction
 
@@ -6,7 +8,7 @@ from app.model.predict import perform_algorithm
 
 router = APIRouter()
 
-@router.post("/schedule/", response_model=list, response_model_exclude_unset=True, tags=["Schedule"])
+@router.post("/schedule/", response_model=list[Prediction], response_model_exclude_unset=True, tags=["Schedule"], status_code=200)
 def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
     """
     Predicts class sizes for courses based on past enrollment data.
@@ -24,8 +26,10 @@ def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
             class_size = perform_algorithm(course_name,term_dict[term],course.Year)
             prediction = Prediction(course=course.course,term=term,size = class_size)
             predictions.append(prediction)
+            
+    json_compatible_item_data = jsonable_encoder(predictions)
+    return JSONResponse(content=json_compatible_item_data)
 
-    return predictions
 
 # Example value
 example_value = [
