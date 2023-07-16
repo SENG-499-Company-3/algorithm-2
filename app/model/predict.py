@@ -33,12 +33,12 @@ def fill_missing(X, LUT):
 
     return X
 
-def construct_instance(LUT,course,term):
+def construct_instance(LUT,course,term,year):
     X_new = pd.DataFrame({
         'Course': [course],
         'TF_IDF': [np.nan],
         'Term': [term],	
-        'Term Yr': [2024],	
+        'Term Yr': [year],	
         'Class Yr': [np.nan],	
         'Dept Desc': [np.nan],
         'Cap': [np.nan],		
@@ -50,9 +50,9 @@ def construct_instance(LUT,course,term):
     return X_filled
 
 
-def perform_algorithm(course,term):
+def perform_algorithm(course,term,year):
     model, LUT = load()
-    X = construct_instance(LUT,course,term)
+    X = construct_instance(LUT,course,term,year)
     prediction = round(model.predict(X)[0], 0)
     
     return prediction
