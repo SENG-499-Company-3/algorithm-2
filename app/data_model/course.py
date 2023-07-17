@@ -1,14 +1,16 @@
-from pydantic import BaseModel
 from typing import List
+from pydantic import BaseModel
 
-class pastEnrollment(BaseModel):
-    year:int
-    term:int
-    size:int
+class Enrollment(BaseModel):
+    year: int
+    term: int
+    size: int
 
 class Course(BaseModel):
     course: str
-    Term: List[int] = []
-    Year: int 
-    pastEnrollment: list[pastEnrollment] | None
+    Term: List[int]
+    Year: int
+    pastEnrollment: List[Enrollment]
 
+class CourseEnrollment(BaseModel):
+    data: List[Course]
