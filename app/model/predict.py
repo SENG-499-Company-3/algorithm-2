@@ -16,6 +16,7 @@ def load():
 def imputed_value(rows, column):
     values = np.append(rows[column].values, [np.nan]).reshape(-1, 1)
     imputer = IterativeImputer(max_iter=10, random_state=42)
+    
     return imputer.fit_transform(values)[-1][0]
 
 def fill_missing(X, LUT):
@@ -44,7 +45,7 @@ def construct_instance(LUT,course,term,year):
         'Cap': [np.nan],		
         'Enrolled Ratio': [np.nan]
     })
-    print(course,term)
+
     X_filled = fill_missing(X_new, LUT)
 
     return X_filled
@@ -52,7 +53,7 @@ def construct_instance(LUT,course,term,year):
 
 def perform_algorithm(course,term,year):
     model, LUT = load()
-    X = construct_instance(LUT,course,term,year)
+    X = construct_instance(LUT, course,term,year)
     prediction = round(model.predict(X)[0], 0)
     
     return prediction
