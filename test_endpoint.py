@@ -36,5 +36,11 @@ class api_test(unittest.TestCase):
         response = self.client.post("/schedule", json=formatted_json_data)
         self.assertEqual(response.status_code, 200)
 
+    def test_one_class_json(self):
+        with open("test/data/one_class.json") as f:
+            json_data = json.load(f)
+        response = self.client.post("/schedule", json=json_data)
+        self.assertEqual(response.status_code, 200)
+
 if __name__ == '__main__':
     unittest.main()
