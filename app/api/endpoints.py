@@ -40,6 +40,9 @@ def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
             return JSONResponse(content={"error": "Invalid course prefix, must be one of: CSC, ECE, SENG"}, status_code=400)
         
         suffix = re.match(r"[a-zA-Z]+(\d+)", course.course).group(1)
+        if suffix[0] not in ["1", "2", "3", "4"]:
+            return JSONResponse(content={"error": "Invalid course year, must be of form: [1-4]\d{2}"}, status_code=400)
+
         course_name = f"{prefix.upper()} {suffix}"
 
         # ECE 458 has been renamed to ECE 363
