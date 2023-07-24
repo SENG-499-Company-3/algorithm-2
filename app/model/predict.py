@@ -43,7 +43,12 @@ def get_rows(LUT, dept, term, class_yr, course=None, not_found=True):
             if query_res.empty:
                 return rows
     else: 
-        return LUT[(LUT['Course'] == course) & (LUT['Term'] == term)]
+        # rows = LUT[(LUT['Course'] == course) & (LUT['Term'] == term)]
+        rows = LUT[(LUT['Course'] == course)]
+        if rows['Term'].any() == term:
+            return rows[rows['Term'] == term]
+        else:
+            return rows
 
 def course_extract(course):
     departments = {
