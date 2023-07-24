@@ -27,6 +27,7 @@ def get_rows(LUT, dept, term, class_yr, course=None, not_found=True):
             return rows[rows['Class Yr'] == class_yr]
         else:
             # If we can't find the exact class year, try to find the closest
+            print('Class year not found in LUT')
             match class_yr:
                 case '1':
                     query_res = rows[rows['Class Yr'] == 2]
@@ -38,12 +39,14 @@ def get_rows(LUT, dept, term, class_yr, course=None, not_found=True):
                     query_res = rows[rows['Class Yr'] == 3]
                 case _:
                     query_res = rows
-            
-            # If we still can't find anything, return the original rows
+
+            # If we still can't find anything, return the original rows, 
+            # otherwise return the query results
             if query_res.empty:
                 return rows
+            else:
+                return query_res
     else: 
-        # rows = LUT[(LUT['Course'] == course) & (LUT['Term'] == term)]
         rows = LUT[(LUT['Course'] == course)]
         if rows['Term'].any() == term:
             return rows[rows['Term'] == term]
