@@ -12,32 +12,26 @@ class api_test(unittest.TestCase):
         self.assertEqual(response.status_code, 405)
         self.assertEqual(response.json(), {"detail": "Method Not Allowed"})
 
-    def test_single_class(self):
-        json_data = '''
-        [
-            {
-                "course": "csc115",
-                "Term": [
-                    5
-                ],
-                "Year": 2024,
-                "pastEnrollment": [
-                    {
-                        "year": 2017,
-                        "term": 5,
-                        "size": 75
-                    }
-                ]
-            }
-        ]
-        '''
-
-        formatted_json_data = json.loads(json_data)
-        response = self.client.post("/schedule", json=formatted_json_data)
-        self.assertEqual(response.status_code, 200)
-
     def test_one_class_json(self):
         with open("test/data/one_class.json") as f:
+            json_data = json.load(f)
+        response = self.client.post("/schedule", json=json_data)
+        self.assertEqual(response.status_code, 200)
+
+    def test_two_classes_json(self):
+        with open("test/data/two_classes.json") as f:
+            json_data = json.load(f)
+        response = self.client.post("/schedule", json=json_data)
+        self.assertEqual(response.status_code, 200)
+    
+    def test_single_class_no_pastEnrollment(self):
+        with open("test/data/single_class_no_pastEnrollment.json") as f:
+            json_data = json.load(f)
+        response = self.client.post("/schedule", json=json_data)
+        self.assertEqual(response.status_code, 200)
+
+    def test_all_class(self):
+        with open("test/data/all_courses.json") as f:
             json_data = json.load(f)
         response = self.client.post("/schedule", json=json_data)
         self.assertEqual(response.status_code, 200)

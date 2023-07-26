@@ -1,0 +1,30 @@
+[
+    {
+        "course": "seng360",
+        "Term": [
+            9
+        ],
+        "Year": 2024,
+        "pastEnrollment": [
+            {
+                "year": 2023,
+                "term": 9,
+                "size": 67
+            }
+        ]
+    },
+    {
+        "course": "csc225",
+        "Term": [
+            5
+        ],
+        "Year": 2025,
+        "pastEnrollment": [
+            {
+                "year": 2024,
+                "term": 5,
+                "size": 75
+            }
+        ]
+    }
+]

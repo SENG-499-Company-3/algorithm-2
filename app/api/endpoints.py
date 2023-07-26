@@ -18,6 +18,11 @@ def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
         A list of dictionaries containing course information and predicted class sizes.
     """
     predictions = []
+    considered_courses = [
+        "CSC", 
+        "ECE", 
+        "SENG"
+    ]
     term_dict = {
         1: "Spring", 
         5: "Summer", 
@@ -25,9 +30,19 @@ def predict_class_sizes(courses: list[Course]) -> list[Prediction]:
     }
 
     for course in courses:
+        # Filter out invalid courses forms
+        if not re.match(r"[a-zA-Z]{3,4}\d{3}", course.course):
+            return JSONResponse(content={"error": "Invalid course format, must be of form: [a-zA-z]{3,4}\d{3}"}, status_code=400)
+        
         # Ensure incoming courses are in the correct format
         prefix = re.match(r"([a-zA-Z]+)", course.course).group(1)
+        if prefix.upper() not in considered_courses:
+            return JSONResponse(content={"error": "Invalid course prefix, must be one of: CSC, ECE, SENG"}, status_code=400)
+        
         suffix = re.match(r"[a-zA-Z]+(\d+)", course.course).group(1)
+        if suffix[0] not in ["1", "2", "3", "4"]:
+            return JSONResponse(content={"error": "Invalid course year, must be of form: [1-4]\d{2}"}, status_code=400)
+
         course_name = f"{prefix.upper()} {suffix}"
 
         # ECE 458 has been renamed to ECE 363

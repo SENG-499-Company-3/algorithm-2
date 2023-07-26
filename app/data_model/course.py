@@ -10,7 +10,7 @@ class Course(BaseModel):
     course: str
     Term: List[int]
     Year: int
-    pastEnrollment: List[Enrollment]
+    pastEnrollment: List[Enrollment] | None
 
 class CourseEnrollment(BaseModel):
     data: List[Course]
