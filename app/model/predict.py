@@ -77,4 +77,4 @@ def perform_algorithm(course, term, year):
     X = construct_instance(LUT, course, term, year)
     prediction = round(model.predict(X)[0], 0)
 
-    return prediction`
+    return prediction
