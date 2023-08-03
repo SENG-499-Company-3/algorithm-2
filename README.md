@@ -23,7 +23,7 @@ $ https://github.com/SENG-499-Company-3/algorithm-2.git
 $ docker compose up
 ```
 
-- Finally, when your done running the project run the following command to shut down the containers.
+- Finally, when you're done running the project run the following command to shut down the containers.
 
 ```bash
 $ docker compose down
